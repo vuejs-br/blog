@@ -1,10 +1,10 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
+title: Vue.js Brasil - Comunidade Brasileira de Vue.js
+description: Artigos em Português sobre Vue.js
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://vuejs-br.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-# User settings
+# User settings (Não usado no blog)
 username: Lorem Ipsum
 user_description: Anon Developer at Lorem Ipsum Dolor
 email: anon@anon.com
