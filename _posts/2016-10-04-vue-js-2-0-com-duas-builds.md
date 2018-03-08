@@ -6,7 +6,7 @@ date: 2016-10-04 13:54:33
 description: derscricao
 color: '#637a91'
 tags: vue2
- - vuejs
+ -vuejs
 layout: post
 introduction: introducao
 ---

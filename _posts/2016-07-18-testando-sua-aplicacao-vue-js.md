@@ -6,9 +6,9 @@ date: 2016-07-18 13:12:25
 description: derscricao
 color: '#637a91'
 tags: vue-js
- - testes
- - tdd
- - bdd
+ -testes
+ -tdd
+ -bdd
 layout: post
 introduction: introducao
 ---

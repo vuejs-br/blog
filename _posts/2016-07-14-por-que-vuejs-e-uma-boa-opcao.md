@@ -6,10 +6,10 @@ date: 2016-07-14 14:47:23
 description: derscricao
 color: '#637a91'
 tags: angular
- - conceitos
- - tecnologia
- - web-components
- - reactjs
+ -conceitos
+ -tecnologia
+ -web-components
+ -reactjs
 layout: post
 introduction: introducao
 ---

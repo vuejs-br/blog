@@ -6,8 +6,8 @@ date: 2016-07-26 11:51:17
 description: derscricao
 color: '#637a91'
 tags: vue-router
- - single-page-application
- - vue-js
+ -single-page-application
+ -vue-js
 layout: post
 introduction: introducao
 ---

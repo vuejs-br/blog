@@ -6,9 +6,9 @@ date: 2016-09-19 18:05:11
 description: derscricao
 color: '#637a91'
 tags: vue2
- - transicao
- - animacao
- - css
+ -transicao
+ -animacao
+ -css
 layout: post
 introduction: introducao
 ---

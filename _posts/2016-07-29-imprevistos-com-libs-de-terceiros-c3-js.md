@@ -6,9 +6,9 @@ date: 2016-07-29 13:59:56
 description: derscricao
 color: '#637a91'
 tags: libs
- - c3js
- - d3js
- - third-party
+ -c3js
+ -d3js
+ -third-party
 layout: post
 introduction: introducao
 ---

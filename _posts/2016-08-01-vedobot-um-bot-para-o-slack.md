@@ -6,8 +6,8 @@ date: 2016-08-01 17:33:06
 description: derscricao
 color: '#637a91'
 tags: vue-js
- - bot
- - slack
+ -bot
+ -slack
 layout: post
 introduction: introducao
 ---

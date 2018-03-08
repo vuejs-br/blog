@@ -6,8 +6,8 @@ date: 2017-07-13 16:45:04
 description: derscricao
 color: '#637a91'
 tags: vue2
- - webpack
- - desempenho
+ -webpack
+ -desempenho
 layout: post
 introduction: introducao
 ---

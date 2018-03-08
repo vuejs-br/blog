@@ -6,11 +6,11 @@ date: 2018-02-19 16:19:42
 description: derscricao
 color: '#637a91'
 tags: vue
- - componentes
- - props
- - event
- - composicao
- - slots
+ -componentes
+ -props
+ -event
+ -composicao
+ -slots
 layout: post
 introduction: introducao
 ---

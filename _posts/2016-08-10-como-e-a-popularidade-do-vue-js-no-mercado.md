@@ -6,9 +6,9 @@ date: 2016-08-10 20:05:50
 description: derscricao
 color: '#637a91'
 tags: evan-you
- - quora
- - traducao
- - mercado
+ -quora
+ -traducao
+ -mercado
 layout: post
 introduction: introducao
 ---

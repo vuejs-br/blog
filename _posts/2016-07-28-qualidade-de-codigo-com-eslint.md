@@ -6,7 +6,7 @@ date: 2016-07-28 12:08:45
 description: derscricao
 color: '#637a91'
 tags: vue-js
- - eslint
+ -eslint
 layout: post
 introduction: introducao
 ---

@@ -6,9 +6,9 @@ date: 2016-10-03 17:31:17
 description: derscricao
 color: '#637a91'
 tags: vue
- - vue2
- - migracao
- - ferramentas
+ -vue2
+ -migracao
+ -ferramentas
 layout: post
 introduction: introducao
 ---

@@ -6,7 +6,7 @@ date: 2017-11-04 18:52:34
 description: derscricao
 color: '#637a91'
 tags: vue2
- - axios
+ -axios
 layout: post
 introduction: introducao
 ---

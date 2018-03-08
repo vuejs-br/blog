@@ -6,13 +6,13 @@ date: 2016-10-01 19:13:22
 description: derscricao
 color: '#637a91'
 tags: vuejs2
- - vue2
- - listas
- - colections
- - arrays
- - axios
- - lodash
- - computeds
+ -vue2
+ -listas
+ -colections
+ -arrays
+ -axios
+ -lodash
+ -computeds
 layout: post
 introduction: introducao
 ---
