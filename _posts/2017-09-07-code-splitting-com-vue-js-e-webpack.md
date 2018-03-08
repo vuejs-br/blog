@@ -6,11 +6,11 @@ date: 2017-09-07 14:17:16
 description: derscricao
 color: '#637a91'
 tags: vue-js
- -vue-js2
- -vue
- -code-splitting
- -import
- -webpack
+ - vue-js2
+ - vue
+ - code-splitting
+ - import
+ - webpack
 layout: post
 introduction: introducao
 ---

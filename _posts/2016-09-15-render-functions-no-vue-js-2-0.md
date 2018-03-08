@@ -6,12 +6,12 @@ date: 2016-09-15 13:23:27
 description: derscricao
 color: '#637a91'
 tags: render-functions
- -render
- -functions
- -vue-js
- -vue-js2
- -vue
- -vue2
+ - render
+ - functions
+ - vue-js
+ - vue-js2
+ - vue
+ - vue2
 layout: post
 introduction: introducao
 ---

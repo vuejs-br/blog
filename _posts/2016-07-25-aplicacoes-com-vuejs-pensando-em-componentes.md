@@ -6,12 +6,12 @@ date: 2016-07-25 12:18:08
 description: derscricao
 color: '#637a91'
 tags: web-components
- -components
- -vuex
- -flux
- -events
- -vue-js
- -single-page-application
+ - components
+ - vuex
+ - flux
+ - events
+ - vue-js
+ - single-page-application
 layout: post
 introduction: introducao
 ---

@@ -6,7 +6,7 @@ date: 2017-02-28 04:28:04
 description: derscricao
 color: '#637a91'
 tags: testes
- -vue2
+ - vue2
 layout: post
 introduction: introducao
 ---

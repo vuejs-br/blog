@@ -63,7 +63,7 @@ def tags_for_post(post, tags, posts_tags):
 def write(prefix, post):
 	"""Writes the given post to a file."""
 	# add tags to post
-	post['tags'] = "\n -".join(tags_for_post(post, tags, posts_tags))
+	post['tags'] = "\n - ".join(tags_for_post(post, tags, posts_tags))
 	
 	if post["published_at"]:
 	    d = datetime.strptime(post["published_at"], '%Y-%m-%d %H:%M:%S')

@@ -6,9 +6,9 @@ date: 2018-02-05 12:27:35
 description: derscricao
 color: '#637a91'
 tags: vue
- -deploy
- -github
- -git
+ - deploy
+ - github
+ - git
 layout: post
 introduction: introducao
 ---

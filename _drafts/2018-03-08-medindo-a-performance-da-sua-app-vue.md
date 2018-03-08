@@ -6,12 +6,12 @@ date: 2018-03-08 00:00:00
 description: derscricao
 color: '#637a91'
 tags: vue
- -performance
- -devtools
- -chrome
- -firefox
- -extensao
- -plugin
+ - performance
+ - devtools
+ - chrome
+ - firefox
+ - extensao
+ - plugin
 layout: post
 introduction: introducao
 ---

@@ -6,8 +6,8 @@ date: 2016-08-22 01:30:00
 description: derscricao
 color: '#637a91'
 tags: vue-js
- -observer-pattern
- -reatividade
+ - observer-pattern
+ - reatividade
 layout: post
 introduction: introducao
 ---

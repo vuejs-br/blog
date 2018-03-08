@@ -6,8 +6,8 @@ date: 2016-08-18 12:08:22
 description: derscricao
 color: '#637a91'
 tags: vue-js-2
- -events
- -bus
+ - events
+ - bus
 layout: post
 introduction: introducao
 ---

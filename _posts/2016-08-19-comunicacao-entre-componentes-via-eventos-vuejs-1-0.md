@@ -6,10 +6,10 @@ date: 2016-08-19 12:00:00
 description: derscricao
 color: '#637a91'
 tags: vuejs
- -vue
- -events
- -v-on
- -components
+ - vue
+ - events
+ - v-on
+ - components
 layout: post
 introduction: introducao
 ---

@@ -6,10 +6,10 @@ date: 2018-03-05 12:11:59
 description: derscricao
 color: '#637a91'
 tags: vue
- -webpack
- -env
- -devops
- -configuracao
+ - webpack
+ - env
+ - devops
+ - configuracao
 layout: post
 introduction: introducao
 ---

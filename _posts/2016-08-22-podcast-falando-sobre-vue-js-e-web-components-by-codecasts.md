@@ -6,9 +6,9 @@ date: 2016-08-22 18:34:20
 description: derscricao
 color: '#637a91'
 tags: podcasts
- -vue
- -web-components
- -vue-js-2
+ - vue
+ - web-components
+ - vue-js-2
 layout: post
 introduction: introducao
 ---

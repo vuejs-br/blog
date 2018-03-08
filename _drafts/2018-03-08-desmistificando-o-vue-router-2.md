@@ -6,8 +6,8 @@ date: 2018-03-08 00:00:00
 description: derscricao
 color: '#637a91'
 tags: vue-router-2
- -vue-js
- -vue-js2
+ - vue-js
+ - vue-js2
 layout: post
 introduction: introducao
 ---

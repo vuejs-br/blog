@@ -6,7 +6,7 @@ date: 2016-07-01 11:41:01
 description: derscricao
 color: '#637a91'
 tags: vue-router
- -vue-js
+ - vue-js
 layout: post
 introduction: introducao
 ---

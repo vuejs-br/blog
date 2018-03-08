@@ -6,7 +6,7 @@ date: 2016-07-28 14:00:29
 description: derscricao
 color: '#637a91'
 tags: vue-js
- -plugins
+ - plugins
 layout: post
 introduction: introducao
 ---

@@ -6,8 +6,8 @@ date: 2016-09-11 12:25:56
 description: derscricao
 color: '#637a91'
 tags: vue-js
- -electron
- -electron-vue
+ - electron
+ - electron-vue
 layout: post
 introduction: introducao
 ---

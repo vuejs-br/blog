@@ -6,7 +6,7 @@ date: 2016-07-05 12:12:43
 description: derscricao
 color: '#637a91'
 tags: vue-js
- -single-page-application
+ - single-page-application
 layout: post
 introduction: introducao
 ---

@@ -6,10 +6,10 @@ date: 2016-10-24 11:06:33
 description: derscricao
 color: '#637a91'
 tags: vue2
- -vuejs
- -vue-router
- -vuex
- -yarn
+ - vuejs
+ - vue-router
+ - vuex
+ - yarn
 layout: post
 introduction: introducao
 ---

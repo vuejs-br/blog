@@ -6,9 +6,9 @@ date: 2018-02-27 17:03:42
 description: derscricao
 color: '#637a91'
 tags: vue2
- -javascript
- -e2e
- -testes
+ - javascript
+ - e2e
+ - testes
 layout: post
 introduction: introducao
 ---

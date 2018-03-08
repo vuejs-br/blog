@@ -6,7 +6,7 @@ date: 2016-07-07 22:29:00
 description: derscricao
 color: '#637a91'
 tags: vue-js
- -vue-resource
+ - vue-resource
 layout: post
 introduction: introducao
 ---

@@ -6,8 +6,8 @@ date: 2016-07-21 14:13:32
 description: derscricao
 color: '#637a91'
 tags: vue-js
- -filters
- -filtros
+ - filters
+ - filtros
 layout: post
 introduction: introducao
 ---

@@ -6,8 +6,8 @@ date: 2017-04-17 18:11:09
 description: derscricao
 color: '#637a91'
 tags: idioma
- -vue2
- -plugins
+ - vue2
+ - plugins
 layout: post
 introduction: introducao
 ---

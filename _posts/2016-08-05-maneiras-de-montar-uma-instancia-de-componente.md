@@ -6,7 +6,7 @@ date: 2016-08-05 17:36:08
 description: derscricao
 color: '#637a91'
 tags: components
- -angular
+ - angular
 layout: post
 introduction: introducao
 ---

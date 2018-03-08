@@ -6,8 +6,8 @@ date: 2017-02-25 22:44:07
 description: derscricao
 color: '#637a91'
 tags: quasar
- -mobile
- -hibrido
+ - mobile
+ - hibrido
 layout: post
 introduction: introducao
 ---

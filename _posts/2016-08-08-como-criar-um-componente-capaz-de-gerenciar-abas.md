@@ -6,8 +6,8 @@ date: 2016-08-08 03:07:52
 description: derscricao
 color: '#637a91'
 tags: vue-js
- -components
- -bootstrap
+ - components
+ - bootstrap
 layout: post
 introduction: introducao
 ---

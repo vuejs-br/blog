@@ -6,8 +6,8 @@ date: 2016-07-22 12:26:29
 description: derscricao
 color: '#637a91'
 tags: vuex
- -mudular
- -modulos
+ - mudular
+ - modulos
 layout: post
 introduction: introducao
 ---
