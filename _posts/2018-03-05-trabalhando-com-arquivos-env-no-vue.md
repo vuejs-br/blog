@@ -78,10 +78,10 @@ process.env.ROOT_API
 
 Vamos a um exemplo! Abra o arquivo `src/componentes/HelloWorld.vue` e no script adicione:
 
-```
- mounted() {
-      console.log(process.env.ROOT_API)
-    }
+```javascript
+mounted() {
+    console.log(process.env.ROOT_API)
+}
 ```
 
 Após executar `npm run dev` e o navegador abrir, você verá a informação no console do dev tools:

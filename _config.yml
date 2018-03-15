@@ -1,10 +1,10 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Vue.js Brasil
+description: Artigos em Português sobre Vue.js
+meta_description: "Artigos em Português sobre Vue.js"
 
 markdown: kramdown
 highlighter: pygments
-logo: false
+logo: true
 paginate: 15
 baseurl: /
 domain_name: 'http://yourblog-domain.com'
