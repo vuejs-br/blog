@@ -7,7 +7,7 @@ Links para se envolver no projeto:
 - [Endereço Provisório](https://vuejs-br.github.io/blog/)
 - [Como Participar](#participar)
 - [Tarefas pendentes](https://github.com/vuejs-br/blog/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%)
-- [Quadro de tarefas]
+- [Board da Migração](https://github.com/vuejs-br/blog/projects/1)
 - [Como obter suporte](#suporte)
 
 ## Participar
