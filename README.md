@@ -23,6 +23,7 @@ Para que você possa ajudar na migração do blog, é necessário ter os seguint
 - Faça um Fork deste projeto para a sua conta no GitHub. Para fazer isso, clique no botão `Fork` no topo superior direito desta página
 - Clone o seu projeto para a sua máquina
 - Use o comando `jekyll serve` para que o blog seja servido no seu localhost:4000
+- Pegue uma tarefa [aqui](https://github.com/vuejs-br/blog/issues) de acordo com a sua preferência. As tarefas assinaladas como `help wanted` são as tarefas disponíveis. Para pegar uma tarefa faça um comentário ou se possível use o campo Assignees. Se não conseguir dar o assign, o admin irá fazer isso. 
 - Faça as alterações pertinentes, verifique se as alterações estão corretas no seu localhost
 - Comite as alterações para o seu projeto
 - Faça um Pull Request (PR) do seu projeto para o projeto oficial
