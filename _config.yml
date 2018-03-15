@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: pygments
 logo: true
 paginate: 15
-baseurl: /
-domain_name: 'http://yourblog-domain.com'
+baseurl: /blog
+domain_name: 'https://github.com/vuejs-br/'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
