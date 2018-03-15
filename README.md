@@ -1,52 +1,37 @@
-# Kasper
+# Migração
 
-> This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it.
+Estamos migrando do Ghost para Github Pages! 
 
-## Installation
+Links para se envolver no projeto:
 
-    git clone https://github.com/rosario/kasper.git
-    cd kasper
-    gem install jekyll
-    gem install pygments.rb
+- [Endereço Provisório](https://vuejs-br.github.io/blog/)
+- [Como Participar](#participar)
+- [Tarefas pendentes](https://github.com/vuejs-br/blog/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%)
+- [Quadro de tarefas]
+- [Como obter suporte](#suporte)
 
-## How to use it
+## Participar
 
-Build page and start local web server
+Para que você possa ajudar na migração do blog, é necessário ter os seguintes requisitos:
 
-    jekyll serve
+- Uma conta no Github
+- Conhecimento básico em Git
+- Jekyll instalado em seu Sistema Operacional
 
-Build page into `_site` folder
+### Tarefas iniciais
 
-    jekyll build
+- Faça um Fork deste projeto para a sua conta no GitHub. Para fazer isso, clique no botão `Fork` no topo superior direito desta página
+- Clone o seu projeto para a sua máquina
+- Use o comando `jekyll serve` para que o blog seja servido no seu localhost:4000
+- Faça as alterações pertinentes, verifique se as alterações estão corretas no seu localhost
+- Comite as alterações para o seu projeto
+- Faça um Pull Request (PR) do seu projeto para o projeto oficial
+- Pode ser necessário fazer um [Sync](https://help.github.com/articles/syncing-a-fork/) do Fork no seu projeto
+- Com o seu PR aprovado, a sua modificação estará visível no nosso [Endereço Provisório](https://vuejs-br.github.io/blog/).
 
-## Kasper theme includes
-
-* Pagination
-* Rss
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture
-* Disqus comments
-
-## Screenshots
-
-![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
-![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
+((continua)) 
 
 
-## Thanks
+# Blog Vuejs-Brasil
 
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
-I've also added few things specific to Jekyll and some minor style changes.
-
-## Copyright & License
-
-Copyright (C) 2013 Ghost Foundation - Released under the MIT License.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Este é o site do Blog vuejs-brasil.com.br. Qualquer pessoa pode contribuir com o nosso Blog! É fácil, bastando apenas alguns conhecimentos sobre Git e Markdown. Para saber mais veja em [Como contribuir com novos artigos](#contribuir).
