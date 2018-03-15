@@ -7,7 +7,7 @@ highlighter: pygments
 logo: true
 paginate: 15
 baseurl: /blog
-domain_name: 'https://github.com/vuejs-br/'
+domain_name: 'https://vuejs-br.github.io/'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
