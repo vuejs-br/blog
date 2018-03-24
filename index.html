@@ -27,7 +27,11 @@ about: 'about.html'
 </header>
 
 
+
 <main id="content" class="content" role="main">
+    
+    
+    {% if site.migration %} <div class="post"><b>{{ site.migration_description }}</b></div> {% endif %}
 
 
     <div class="extra-pagination inner">
