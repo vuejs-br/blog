@@ -12,6 +12,7 @@ tags: vue
  -configuracao
 layout: post
 introduction: introducao
+author: danielschmitz
 ---
 
 Uma dúvida interessante que recebi de um leitor foi em como trabalhar de forma correta com configurações distintas entre o servidor de desenvolvimento e o servidor de produção. Por exemplo, quando estamos em desenvolvimento, queremos acessar uma API REST que está também em desenvolvimento, muito possivelmente algo como *http://localhost:8080/api*, e quando estamos no servidor de produção, a url de acesso a api muda para algo como *https://www.seusite.com/api*, então é preciso encontrar uma forma **correta** de manipular estas informações.

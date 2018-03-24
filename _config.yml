@@ -11,6 +11,17 @@ domain_name: 'https://vuejs-br.github.io/'
 google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
 
-# Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+#authors
+authors:
+  danielschmitz:
+    name: Daniel Schmitz
+    gravatar: b2da8fcc6cfdaf3bbe1f17aa9fabde39?s&#x3D;250&amp;d&#x3D;mm&amp;r&#x3D;x
+    web: http://danielschmitz.com.br
+    description: Daniel Schmitz é autor de vários livros sobre programação e desenvolvimento de sistemas.
+    github: danielschmitz
+  vedovelli:
+    name: Fábio Vedovelli
+    gravatar: 
+    web: http://vedovelli.com.br
+    description: 
+    github: vedovelli
