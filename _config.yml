@@ -15,13 +15,13 @@ plugins: [jekyll-paginate]
 authors:
   danielschmitz:
     name: Daniel Schmitz
-    gravatar: b2da8fcc6cfdaf3bbe1f17aa9fabde39?s&#x3D;250&amp;d&#x3D;mm&amp;r&#x3D;x
+    gravatar: b2da8fcc6cfdaf3bbe1f17aa9fabde39
     web: http://danielschmitz.com.br
     description: Daniel Schmitz é autor de vários livros sobre programação e desenvolvimento de sistemas.
     github: danielschmitz
   vedovelli:
     name: Fábio Vedovelli
-    gravatar: 
+    gravatar: 63070a46ae3ac45778a7c5fa9e73f4a5
     web: http://vedovelli.com.br
     description: 
     github: vedovelli

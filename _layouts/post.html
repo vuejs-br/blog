@@ -4,7 +4,7 @@ disqus: false
 archive: false
 post_class: post-template
 ---
-
+{% assign author = site.authors[page.author] %}
 <header class="main-header post-head {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
     <nav class="main-nav {% if page.cover %} overlay {% endif %} clearfix">
         <a class="back-button icon-arrow-left" href="{{ site.baseurl }}">Home</a>
@@ -61,8 +61,6 @@ post_class: post-template
         {% endif %}
 
         <footer class="post-footer">
-            <!-- If we want to display author's name and bio -->
-            {% assign author = site.authors[page.author] %}
                 <figure class="author-image">
                     <a class="img" href="{{ author.site }}" style="background-image: url({{ author.image }})">
                     <span class="hidden">{{site.author}}'s Picture</span></a>
