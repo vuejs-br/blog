@@ -2,8 +2,8 @@ name: Vue.js Brasil
 description: Artigos em Português sobre Vue.js
 meta_description: Artigos em Português sobre Vue.js
 
-migration: true
-migration_description: "Estamos em processo de migração. <br/> Algumas coisas podem não funcionar"
+warning: true
+warning_message: "Estamos em processo de migração. <br/> Algumas coisas podem não funcionar"
 
 markdown: kramdown
 highlighter: pygments

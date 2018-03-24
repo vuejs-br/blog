@@ -30,16 +30,14 @@ about: 'about.html'
 
 <main id="content" class="content" role="main">
     
-    
-    {% if site.migration %} <div class="post"><b>{{ site.migration_description }}</b></div> {% endif %}
-
+    {% if site.warning %} <div class="main-header-content inner" style="background-color: #fcc;padding:20px;text-align: center"><b>{{ site.warning_message }}</b></div> {% endif %}
 
     <div class="extra-pagination inner">
         {% include pagination.html %}
     </div>
 
     {% for post in paginator.posts %}
-
+    {% assign author = site.authors[post.author] %}
     <article class="post">
         <header class="post-header">
             <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -48,10 +46,8 @@ about: 'about.html'
             {{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a>
         </section>
         <footer class="post-meta">
-            {% if site.author %}
-                <img class="author-thumb" src="{{ site.baseurl }}/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
-                {{ site.author }}
-            {% endif %}
+            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}" nopin="nopin" />
+            {{ author.name }}
             {% if post.categories.size > 0 %} 
                 {{ post.categories | array_to_sentence_string | prepend: 'on ' }} 
             {% endif %}
