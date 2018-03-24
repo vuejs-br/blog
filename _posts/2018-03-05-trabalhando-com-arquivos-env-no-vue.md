@@ -1,17 +1,13 @@
 ---
 layout: post
 title: 'Trabalhando com arquivos .env no Vue'
-main-class: 'dev'
 date: 2018-03-05 12:11:59 
-description: derscricao
-color: '#637a91'
 tags: vue
  -webpack
  -env
  -devops
  -configuracao
 layout: post
-introduction: introducao
 author: danielschmitz
 ---
 
@@ -92,9 +88,4 @@ Após executar `npm run dev` e o navegador abrir, você verá a informação no 
 Se você executar o comando "npm run build", o diretório `dist` será criado com a aplicação pronta para ser enviada ao ambiente de produção, e a variável ROOT_API irá mostrar o valor `http://www.site.com.br/api`, conforme foi especificado em `prod.env.js`.
 
 Dessa forma, podemos trabalhar com variáveis diferenciadas pelo ambiente, utilizando a configuração pronta que o template webpack nos fornece. Se você utilizar um outro template, certifique-se de encontrar esta funcionalidade.
-
-
-
-
-
 
