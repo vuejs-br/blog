@@ -12,7 +12,7 @@ logo: true
 paginate: 15
 baseurl: 
 domain_name: 'http://www.vuejs-brasil.com.br/'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-79980005-1'
 plugins: [jekyll-paginate]
 
 #authors
