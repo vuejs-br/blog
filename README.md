@@ -14,4 +14,4 @@ O que está faltando:
 - [x] Comentários do disquss
 - [ ] Importar as imagens de capa de artigo
 - [ ] Configurar os autores de cada artigo
-- [ ] Configurar as tags e os 
+- [ ] Configurar as tags e criar uma página de tags
