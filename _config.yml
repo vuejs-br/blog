@@ -9,8 +9,8 @@ markdown: kramdown
 highlighter: pygments
 logo: true
 paginate: 15
-baseurl: /blog
-domain_name: 'https://vuejs-br.github.io/'
+baseurl: 
+domain_name: 'http://www.vuejs-brasil.com.br/'
 google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
 
