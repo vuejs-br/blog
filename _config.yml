@@ -10,7 +10,7 @@ markdown: kramdown
 highlighter: pygments
 logo: true
 paginate: 15
-baseurl: 
+baseurl: /
 domain_name: 'http://www.vuejs-brasil.com.br/'
 google_analytics: 'UA-79980005-1'
 plugins: [jekyll-paginate]
