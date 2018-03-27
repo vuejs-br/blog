@@ -3,12 +3,10 @@ layout: post
 title: 'Custom Actions com vue-resource'
 main-class: 'dev'
 date: 2016-08-15 12:01:52 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -vue-resource
+tags: vue-js vue-resource
 layout: post
-introduction: introducao
+author: leonardovilarinho
 ---
 
 #### O que é?

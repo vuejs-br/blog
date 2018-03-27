@@ -3,13 +3,10 @@ layout: post
 title: 'Vue.js para desenvolvedores AngularJS – Parte 2 (Components e states)'
 main-class: 'dev'
 date: 2016-07-20 11:14:48 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -web-components
- -angular
+tags: vue-js web-components angular
 layout: post
-introduction: introducao
+author: vinicius
 ---
 
 [Lógica de templates (Parte 1)](http://www.vuejs-brasil.com.br/vue-js-para-desenvolvedores-angularjs-parte-1-logica-de-templates/)  

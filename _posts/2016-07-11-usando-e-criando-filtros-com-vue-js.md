@@ -3,11 +3,10 @@ layout: post
 title: 'Usando e criando filtros com Vue.js'
 main-class: 'dev'
 date: 2016-07-11 11:56:04 
-description: derscricao
 color: '#637a91'
 tags: vue-js
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Filtros são usados, na maioria das vezes, para formatar valores de *databind* (aqueles com {{ e }}). O exemplo a seguir irá pegar todo o valor de `msg` e transformar a primeira letra para maiúscula.

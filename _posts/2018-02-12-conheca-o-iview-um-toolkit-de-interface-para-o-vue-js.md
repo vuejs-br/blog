@@ -3,14 +3,10 @@ layout: post
 title: 'Conheça o iView, um toolkit de interface para o Vue.js'
 main-class: 'dev'
 date: 2018-02-12 17:38:34 
-description: derscricao
 color: '#637a91'
-tags: toolkit
- -iview
- -ui
- -interface
+tags: toolkit iview ui interface
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Com o crescimento do *Vue* centenas de bibliotecas surgem a cada dia para dar suporte a ele, dentre eles temos algumas ligadas à interface, como o iView. Neste artigo veremos um pouco sobre ele, e em como usá-lo nos seus projetos. 

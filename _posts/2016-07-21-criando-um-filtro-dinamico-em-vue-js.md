@@ -3,13 +3,10 @@ layout: post
 title: 'Criando um filtro dinâmico em Vue.js'
 main-class: 'dev'
 date: 2016-07-21 14:13:32 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -filters
- -filtros
+tags: vue-js filters filtros
 layout: post
-introduction: introducao
+author: leonardovilarinho
 ---
 
 Trabalho para uma startup e, por mais que o escopo do projeto esteja bem definido, a aplicação como um todo está passível de sofrer alterações não previstas. Semana passada deparei-me com um problema sobre como filtrar itens em um laço Vue (v-for). Usar o v-for é algo bem simples, o problema em si é que eu tenho uma única visão para renderizar três listas semelhantes, porém, cada uma contém suas particularidades.

@@ -3,13 +3,10 @@ layout: post
 title: 'Como criar um componente capaz de gerenciar abas'
 main-class: 'dev'
 date: 2016-08-08 03:07:52 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -components
- -bootstrap
+tags: vue-js components bootstrap
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Neste artigo veremos como criar um componente no qual irá renderizar abas, que opdem conter os mais diversos conteúdos. O objetivo final é criar um componente que possui este comportamento:

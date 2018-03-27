@@ -1,14 +1,12 @@
 ---
 layout: post
 title: 'Trabalhando com arquivos .env no Vue'
+main-class: 'dev'
 date: 2018-03-05 12:11:59 
-tags: vue
- -webpack
- -env
- -devops
- -configuracao
+color: '#637a91'
+tags: vue webpack env devops configuracao
 layout: post
-author: danielschmitz
+author: halfeld
 ---
 
 Uma dúvida interessante que recebi de um leitor foi em como trabalhar de forma correta com configurações distintas entre o servidor de desenvolvimento e o servidor de produção. Por exemplo, quando estamos em desenvolvimento, queremos acessar uma API REST que está também em desenvolvimento, muito possivelmente algo como *http://localhost:8080/api*, e quando estamos no servidor de produção, a url de acesso a api muda para algo como *https://www.seusite.com/api*, então é preciso encontrar uma forma **correta** de manipular estas informações.
@@ -75,10 +73,10 @@ process.env.ROOT_API
 
 Vamos a um exemplo! Abra o arquivo `src/componentes/HelloWorld.vue` e no script adicione:
 
-```javascript
-mounted() {
-    console.log(process.env.ROOT_API)
-}
+```
+ mounted() {
+      console.log(process.env.ROOT_API)
+    }
 ```
 
 Após executar `npm run dev` e o navegador abrir, você verá a informação no console do dev tools:
@@ -88,4 +86,9 @@ Após executar `npm run dev` e o navegador abrir, você verá a informação no 
 Se você executar o comando "npm run build", o diretório `dist` será criado com a aplicação pronta para ser enviada ao ambiente de produção, e a variável ROOT_API irá mostrar o valor `http://www.site.com.br/api`, conforme foi especificado em `prod.env.js`.
 
 Dessa forma, podemos trabalhar com variáveis diferenciadas pelo ambiente, utilizando a configuração pronta que o template webpack nos fornece. Se você utilizar um outro template, certifique-se de encontrar esta funcionalidade.
+
+
+
+
+
 

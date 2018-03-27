@@ -3,17 +3,10 @@ layout: post
 title: 'Filtros no Vue.js 2.0'
 main-class: 'dev'
 date: 2016-09-16 13:09:23 
-description: derscricao
 color: '#637a91'
-tags: filters
- -filtros
- -vue2
- -vue-js
- -vue-js2
- -vue-2-0
- -vue-js-2-0
+tags: filters filtros vue2 vue-js vue-js2 vue-2-0 vue-js-2-0
 layout: post
-introduction: introducao
+author: jjsquad
 ---
 
 Uma coisa muito útil são filtros, mas não confunda-os com diretivas, já vi uma galera aí tentando modificar o valor de um input com eles xD
@@ -36,18 +29,17 @@ Isso mesmo, o Vue nessa segunda versão tem amostrado uma API mas parecida como 
 
 em quanto antes você passava parâmetros assim: 
 
-```
-{{message | say 'Igor' 'Luiz'}}
+```javascript
+<span>{{message | say 'Igor' 'Luíz'}}</span>
 ```
 
 agora usa assim:
 
+```javascript
+<span>{{message | say('Igor','Luíz')}}</span>
 ```
-{{message | say('Igor','Luiz')}}
-```
 
-
-
+e esses são os poréns, que acabam melhorando a forma de fazermos nossas aplicações.
 
 O modo como se criam os filtros é o mesmo, como eu disse as grandes mudanças foram esses poréns, mas caso quera saber como criar eles, estou fazendo uma [serie sobre Vue 2.0](https://www.youtube.com/playlist?list=PLFtCenSt_W2Fxgh1fjjwXK20qg2MdC2wp) e já tem o vídeo que fala sobre filtros, então corre lá qué de grátis xD
 

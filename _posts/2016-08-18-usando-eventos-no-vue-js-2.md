@@ -3,13 +3,10 @@ layout: post
 title: 'Usando eventos no Vue.js 2.0'
 main-class: 'dev'
 date: 2016-08-18 12:08:22 
-description: derscricao
 color: '#637a91'
-tags: vue-js-2
- -events
- -bus
+tags: vue-js-2 events bus
 layout: post
-introduction: introducao
+author: vitor-arjol
 ---
 
 Sabemos que a recomendação é utilizar Vuex para a sanidade do projeto e da equipe de desenvolvimento, porém, os métodos **$broadcast()** e **$dispatch()**, recém depreciados na nova versão ainda tem um papel fundamental comunicação entre componentes, mesmo que se esteja utilizando Vuex.

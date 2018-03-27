@@ -3,13 +3,10 @@ layout: post
 title: 'Vue 2 no mundo mobile com Quasar'
 main-class: 'dev'
 date: 2017-02-25 22:44:07 
-description: derscricao
 color: '#637a91'
-tags: quasar
- -mobile
- -hibrido
+tags: quasar mobile hibrido
 layout: post
-introduction: introducao
+author: daniel
 ---
 
 É muito comum ver no mercado de trabalho desenvolvedores web que também se disponibilizam na área de desenvolvimento móvel, isso se deve ao fato de termos cada vez mais ferramentas para a construção de aplicativos híbridos, não só isso, como também temos cada vez mais ferramentas que estão usando linguagens e frameworks web para construir essas aplicações.

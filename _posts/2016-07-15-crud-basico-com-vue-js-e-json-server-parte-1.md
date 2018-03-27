@@ -3,11 +3,10 @@ layout: post
 title: 'CRUD básico com Vue.js e json-server #1'
 main-class: 'dev'
 date: 2016-07-15 11:26:55 
-description: derscricao
 color: '#637a91'
 tags: vue-js
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Nesta sequência de artigos veremos como criar um CRUD completo utilizando Vue, Vue Resource e json-sevrer.

@@ -3,12 +3,10 @@ layout: post
 title: 'Crie e publique você mesmo o seu template vue-cli'
 main-class: 'dev'
 date: 2016-07-04 15:57:17 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -ferramentas
+tags: vue-js ferramentas
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Vimos no [artigo anterior](http://www.vuejs-brasil.com.br/crie-rapidamente-um-projeto-vue-com-vue-cli-e-browserify/) o **vue-cli**, uma ferramenta de linha de comando instalada pelo npm (npm i -g vue-cli) e que é usada para criar projetos prontos com uma estrutura mínima possível (chamados de skeletion ou boilerplate).

@@ -3,15 +3,10 @@ layout: post
 title: 'Deixe o ESLint trabalhar para você, no Visual Studio Code'
 main-class: 'dev'
 date: 2018-03-19 11:45:46 
-description: derscricao
 color: '#637a91'
-tags: eslint
- -webpack
- -vue
- -vscode
+tags: eslint webpack vue vscode
 layout: post
-introduction: introducao
-author: danielschmitz
+author: halfeld
 ---
 
 Para quem não conhece o ESLint, podemos resumi-lo como um utilitário para o Javascript responsável em avaliar algumas, ou até dezenas, regras de formatação do seu código.

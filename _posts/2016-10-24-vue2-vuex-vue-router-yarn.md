@@ -3,15 +3,10 @@ layout: post
 title: 'Configuração base usando Vue.js 2, Vuex, Vue-Router e yarn'
 main-class: 'dev'
 date: 2016-10-24 11:06:33 
-description: derscricao
 color: '#637a91'
-tags: vue2
- -vuejs
- -vue-router
- -vuex
- -yarn
+tags: vue2 vuejs vue-router vuex yarn
 layout: post
-introduction: introducao
+author: leonardovilarinho
 ---
 
 Neste final de semana estava participando do [VanHackathon](https://www.vanhack.com/hackathon), uma competição internacional online sediada em Vancouver, Canada. Como tive alguns probleminhas na hora de organizar a configuração do Vue com os dois plugins mencionados no título deste artigo, resolvi escrever como eu montei o meu projeto e dar um exemplo do mesmo funcionando.

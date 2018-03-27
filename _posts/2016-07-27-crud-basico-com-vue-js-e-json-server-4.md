@@ -3,11 +3,10 @@ layout: post
 title: 'CRUD básico com Vue.js e json-server #4'
 main-class: 'dev'
 date: 2016-07-27 11:34:00 
-description: derscricao
 color: '#637a91'
 tags: vue-js
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Após realizar a paginação no [artigo anterior](http://www.vuejs-brasil.com.br/crud-basico-com-vue-js-e-json-server-3/), podemos implementar a busca pelo nome da cervejarias. Voltando ao código html das cervejarias, temos:

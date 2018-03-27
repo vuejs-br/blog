@@ -3,11 +3,10 @@ layout: post
 title: 'Alternativas em relação ao Vuex'
 main-class: 'dev'
 date: 2018-02-26 11:58:16 
-description: derscricao
 color: '#637a91'
 tags: 
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Você já deve ter lido que o [Vuex](https://vuex.vuejs.org/en/) é a melhor forma de manter o estado global de uma aplicação em Vue. E realmente é. É vital que você compreenda o Vuex e sua filosofia [Flux](https://facebook.github.io/flux/docs/overview.html) para poder criar aplicações poderosas e com um excelente gerenciamento de estado, inclusive pelo Vue DevTools.

@@ -3,11 +3,10 @@ layout: post
 title: 'O que é cada propriedade num Vue Object'
 main-class: 'dev'
 date: 2016-07-10 18:08:19 
-description: derscricao
 color: '#637a91'
 tags: vue-js
 layout: post
-introduction: introducao
+author: vitor-arjol
 ---
 
 Quando criamos métodos no Vue Object nós o fazemos dentro de um [objeto literal](http://blog.caelum.com.br/criacao-de-objetos-em-javascript/) `{}`, que é uma forma de iniciar um objeto usando apenas as chaves.

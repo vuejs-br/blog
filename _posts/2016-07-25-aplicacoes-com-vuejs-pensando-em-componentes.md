@@ -3,17 +3,10 @@ layout: post
 title: 'Aplicações com VueJS: Pensando em componentes'
 main-class: 'dev'
 date: 2016-07-25 12:18:08 
-description: derscricao
 color: '#637a91'
-tags: web-components
- -components
- -vuex
- -flux
- -events
- -vue-js
- -single-page-application
+tags: web-components components vuex flux events vue-js single-page-application
 layout: post
-introduction: introducao
+author: pablohpsilva
 ---
 
 ## O futuro é Lego!

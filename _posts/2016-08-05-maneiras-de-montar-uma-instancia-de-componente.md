@@ -3,12 +3,10 @@ layout: post
 title: 'Maneiras de montar uma instância de componente'
 main-class: 'dev'
 date: 2016-08-05 17:36:08 
-description: derscricao
 color: '#637a91'
-tags: components
- -angular
+tags: components angular
 layout: post
-introduction: introducao
+author: pablohpsilva
 ---
 
 VueJS é uma biblioteca para se criar [web-components](http://www.vuejs-brasil.com.br/aplicacoes-com-vuejs-pensando-em-componentes/). Muitos *desavisados* que começam a ler sobre VueJS imaginam ele como um *angularjs só que mais simples*, por sorte basta alguns momentos com ele que você percebe que a pegada é outra. A principal diferença é a maneira de se criar aplicações com componentes, que possui pouca ou nenhuma semelhança com a _maneira angularjs_ de se criar aplicações.

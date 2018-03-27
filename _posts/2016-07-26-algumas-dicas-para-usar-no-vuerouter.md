@@ -3,13 +3,10 @@ layout: post
 title: 'Algumas dicas para usar no VueRouter'
 main-class: 'dev'
 date: 2016-07-26 11:51:17 
-description: derscricao
 color: '#637a91'
-tags: vue-router
- -single-page-application
- -vue-js
+tags: vue-router single-page-application vue-js
 layout: post
-introduction: introducao
+author: vinicius
 ---
 
 Se você utiliza o [Vue.js](https://vuejs.org/) como uma *Single Page Application* **SPA** já deve conhecer uma ferramenta indispensável para o funcionamento que é o Router. O Vue tem seu Router official chamado [VueRouter](http://router.vuejs.org/en/installation.html), sua utilização é extremamente simples, porem, ele é poderosíssimo em funcionalidades e customização.

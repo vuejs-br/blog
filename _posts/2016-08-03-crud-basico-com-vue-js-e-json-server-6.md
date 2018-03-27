@@ -3,11 +3,10 @@ layout: post
 title: 'CRUD básico com Vue.js e json-server #6'
 main-class: 'dev'
 date: 2016-08-03 12:05:29 
-description: derscricao
 color: '#637a91'
 tags: vue-js
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Para finalizar o básico do CRUD, já temos a leitura com paginação, e a inclusão e edição de dados. Falta remover as cervejarias. 

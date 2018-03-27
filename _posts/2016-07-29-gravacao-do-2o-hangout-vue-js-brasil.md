@@ -3,11 +3,10 @@ layout: post
 title: 'Gravação do 2º Hangout Vue.js Brasil'
 main-class: 'dev'
 date: 2016-07-29 02:09:27 
-description: derscricao
 color: '#637a91'
 tags: 
 layout: post
-introduction: introducao
+author: vitor-arjol
 ---
 
 Hangout realizado em 28 de Julho de 2016.

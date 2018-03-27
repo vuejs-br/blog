@@ -3,11 +3,10 @@ layout: post
 title: 'Vue.js 2: O que mudou?'
 main-class: 'dev'
 date: 2016-08-16 19:42:29 
-description: derscricao
 color: '#637a91'
 tags: 
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Com a chegada do Vue 2 na versão RC (Release Candidate) já podemos dar uma olhada em geral nas mudanças que estão por vir. Primeiro, é preciso saber que houve sim alterações importantes no Vue 2, mas não uma completa reformulação da biblioteca (como aconteceu com Angular 2).

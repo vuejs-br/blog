@@ -3,11 +3,10 @@ layout: post
 title: 'Conheça a tag <template>'
 main-class: 'dev'
 date: 2016-07-13 13:28:32 
-description: derscricao
 color: '#637a91'
 tags: vue-js
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Você sabia que o vue.js possui a tag `<template>` ? Ela é muito útil em coleções na qual não existe você não possui uma tag html associada. 

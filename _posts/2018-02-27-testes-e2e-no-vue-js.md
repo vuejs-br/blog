@@ -3,14 +3,10 @@ layout: post
 title: 'Automação de testes e2e no Vue.js'
 main-class: 'dev'
 date: 2018-02-27 17:03:42 
-description: derscricao
 color: '#637a91'
-tags: vue2
- -javascript
- -e2e
- -testes
+tags: vue2 javascript e2e testes
 layout: post
-introduction: introducao
+author: daniel
 ---
 
 Hoje em dia muito se fala em fazer testes automatizados para seus sistemas, e isso é um fato concreto, se seu sistema não é testado computacionalmente a tendência de surgir *bugs* na produção é gigante.

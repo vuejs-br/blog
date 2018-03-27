@@ -3,17 +3,10 @@ layout: post
 title: 'Render Functions no Vue.js 2.0'
 main-class: 'dev'
 date: 2016-09-15 13:23:27 
-description: derscricao
 color: '#637a91'
-tags: render-functions
- -render
- -functions
- -vue-js
- -vue-js2
- -vue
- -vue2
+tags: render-functions render functions vue-js vue-js2 vue vue2
 layout: post
-introduction: introducao
+author: jjsquad
 ---
 
 Uma das coisas que vocês mais vão notar em questão de API no Vue 2 são as Render Functions, com a implementação do VirtualDOM meio que foi necessário essa abordagem de renderização.

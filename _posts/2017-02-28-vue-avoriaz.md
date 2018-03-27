@@ -3,12 +3,10 @@ layout: post
 title: 'Testes automatizados com Avoriaz'
 main-class: 'dev'
 date: 2017-02-28 04:28:04 
-description: derscricao
 color: '#637a91'
-tags: testes
- -vue2
+tags: testes vue2
 layout: post
-introduction: introducao
+author: daniel
 ---
 
 Uma parte essencial para que você possa dormir tranquilo sem ficar pensando naquela alteração de uma linha que você fez sem testar o restante do seu sistema.

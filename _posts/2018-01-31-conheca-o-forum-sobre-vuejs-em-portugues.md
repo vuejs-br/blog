@@ -3,11 +3,10 @@ layout: post
 title: 'Conheça o Fórum sobre Vuejs em português'
 main-class: 'dev'
 date: 2018-01-31 23:52:47 
-description: derscricao
 color: '#637a91'
 tags: 
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 O Vue.js BR precisa de um fórum! Tópicos com dúvidas e dicas são bem vindos aos motores de busca se estiverem em um formato fácil de ver! É por isso que suas dúvidas no google sempre trazem páginas como o Stackoverflow, GitHub Issues, entre outros, e quase não trazem algo relativo a um grupo do facebook por exemplo, ou uma conversa no Slack. 

@@ -3,16 +3,10 @@ layout: post
 title: 'Vue.js ajax patterns'
 main-class: 'dev'
 date: 2017-11-06 13:20:56 
-description: derscricao
 color: '#637a91'
-tags: vue
- -vue2
- -ajax
- -vuex
- -components
- -design-patterns
+tags: vue vue2 ajax vuex components design-patterns
 layout: post
-introduction: introducao
+author: jjsquad
 ---
 
 Você vira para um desenvolvedor front-end e pergunta:

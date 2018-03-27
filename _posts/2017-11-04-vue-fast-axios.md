@@ -3,12 +3,10 @@ layout: post
 title: 'Contatando APIs de maneira fácil com o vue fast axios'
 main-class: 'dev'
 date: 2017-11-04 18:52:34 
-description: derscricao
 color: '#637a91'
-tags: vue2
- -axios
+tags: vue2 axios
 layout: post
-introduction: introducao
+author: daniel
 ---
 
 Olá pessoal, nesse artigo estarei mostrando um plugin bem simples que desenvolvi, o mesmo foi criado com intuito de facilitar o envio e validação de requisições no Vue.js.

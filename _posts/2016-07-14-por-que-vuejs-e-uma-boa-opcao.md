@@ -3,15 +3,10 @@ layout: post
 title: 'Por que VueJS é uma boa opção?'
 main-class: 'dev'
 date: 2016-07-14 14:47:23 
-description: derscricao
 color: '#637a91'
-tags: angular
- -conceitos
- -tecnologia
- -web-components
- -reactjs
+tags: angular conceitos tecnologia web-components reactjs
 layout: post
-introduction: introducao
+author: pablohpsilva
 ---
 
 **Vue.JS** é um nome bem peculiar para uma biblioteca javascript, principalmente para nós brasileiros, o povo do *huehuebr*. Porém esse é o nome da *lib* javascript que tem chamado a atenção das comunidades de desenvolvimento nos últimos meses.

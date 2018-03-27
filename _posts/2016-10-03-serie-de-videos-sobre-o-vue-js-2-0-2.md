@@ -3,11 +3,10 @@ layout: post
 title: 'Serie de vídeos sobre o Vue.js 2.0'
 main-class: 'dev'
 date: 2016-10-03 00:15:00 
-description: derscricao
 color: '#637a91'
 tags: vue2
 layout: post
-introduction: introducao
+author: jjsquad
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zp8JIDNiAS4?list=PLFtCenSt_W2Fxgh1fjjwXK20qg2MdC2wp" frameborder="0" allowfullscreen></iframe>

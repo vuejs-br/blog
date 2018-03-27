@@ -3,11 +3,10 @@ layout: post
 title: 'Comunicação entre componentes com Vue.js 2'
 main-class: 'dev'
 date: 2016-10-28 14:32:13 
-description: derscricao
 color: '#637a91'
 tags: 
 layout: post
-introduction: introducao
+author: leonardovilarinho
 ---
 
 Durante a [VanHackathon](https://www.vanhack.com/hackathon) eu tive alguns probleminhas pra entender como o Vue.js 2 tratava os eventos, visto que o meu tão querido *$dispatch* tornou-se obsoleto.

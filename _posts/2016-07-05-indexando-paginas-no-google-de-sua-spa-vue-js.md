@@ -3,12 +3,10 @@ layout: post
 title: 'Indexando páginas no Google de sua SPA Vue.js'
 main-class: 'dev'
 date: 2016-07-05 12:12:43 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -single-page-application
+tags: vue-js single-page-application
 layout: post
-introduction: introducao
+author: vinicius
 ---
 
 Um dos temas mais discutidos quando envolve aplicações de página única (SPA) e a otimização para mecanismos de busca (SEO) é a dificuldade de indexar as páginas no índice e fazer com que os bots reconheçam as meta tags que foram modificadas dinamicamente através da aplicação Javascript.

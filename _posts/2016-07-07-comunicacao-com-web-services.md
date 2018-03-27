@@ -3,12 +3,10 @@ layout: post
 title: 'Comunicação com web services'
 main-class: 'dev'
 date: 2016-07-07 22:29:00 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -vue-resource
+tags: vue-js vue-resource
 layout: post
-introduction: introducao
+author: vitor-arjol
 ---
 
 Sabemos que uma interface, por melhor que seja, não é nada útil se os dados por ela gerenciados não forem salvos num banco de dados. Infelizmente utilizar os recursos do browser para salva-los é inviável, pois os dados estariam disponíveis apenas para o próprio usuário. A verdade é que desenvolvemos sistemas para compartilhar informações com outras pessoas e para isso precisamos de um local centralizado para armazenar e acessar estas informações.

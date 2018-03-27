@@ -3,12 +3,10 @@ layout: post
 title: 'Diretivas no Vue.js #2'
 main-class: 'dev'
 date: 2016-07-11 20:23:44 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -diretivas
+tags: vue-js diretivas
 layout: post
-introduction: introducao
+author: jjsquad
 ---
 
 Continuando o assunto de como criar diretivas no Vue, vamos ver agora como fazer usando técnicas e propriedades mais avançadas. Caso você não leu a [parte 1](http://www.vuejs-brasil.com.br/diretivas-no-vue-js-1-2/) deste artigo, recomendo fortemente você dar um olhada para entender tranquilamente o que vou falar aqui.

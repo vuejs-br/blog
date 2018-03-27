@@ -3,11 +3,10 @@ layout: post
 title: 'Vue.js para desenvolvedores AngularJS – Parte 1 (Lógica de templates)'
 main-class: 'dev'
 date: 2016-07-12 11:53:23 
-description: derscricao
 color: '#637a91'
 tags: 
 layout: post
-introduction: introducao
+author: vinicius
 ---
 
 *Separei esse post inicialmente em 5 partes, para não ficarem muito extensos e poder utilizar de bastantes exemplos no decorrer da postagem, espero que curtam.*

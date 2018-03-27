@@ -3,13 +3,10 @@ layout: post
 title: 'Separando arquivos de código em produção'
 main-class: 'dev'
 date: 2017-07-13 16:45:04 
-description: derscricao
 color: '#637a91'
-tags: vue2
- -webpack
- -desempenho
+tags: vue2 webpack desempenho
 layout: post
-introduction: introducao
+author: daniel
 ---
 
 Atualmente, com tantas opções *online* para resolver um mesmo problema, o usuário acaba optando por usar sites com o carregamento rápido, prova disso é essa reportagem do Uol de 2011: [Maioria dos usuários espera só 5 segundos para site abrir no celular](https://tecnologia.uol.com.br/ultimas-noticias/redacao/2011/07/27/internautas-moveis-esperam-so-5-segundos-pelo-carregamento-de-um-site-diz-pesquisa.jhtm).

@@ -3,18 +3,10 @@ layout: post
 title: 'Medindo a performance da sua App Vue'
 main-class: 'dev'
 date: 2018-03-12 09:31:17 
-description: derscricao
 color: '#637a91'
-tags: vue
- -performance
- -devtools
- -chrome
- -firefox
- -extensao
- -plugin
+tags: vue performance devtools chrome firefox extensao plugin
 layout: post
-introduction: introducao
-author: danielschmitz
+author: halfeld
 ---
 
 Neste artigo iremos utilizar uma extensão para o Chrome/Firefox com o objetivo de medir a performance da sua aplicação Vue.

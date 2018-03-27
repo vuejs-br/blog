@@ -6,7 +6,7 @@ date: 2016-10-01 15:50:57
 color: '#637a91'
 tags: 
 layout: post
-author: vedovelli
+author: vitor-arjol
 ---
 
 São 40 minutos para aprender a configurar e utilizar o Vuex em seus projetos Vue.js.

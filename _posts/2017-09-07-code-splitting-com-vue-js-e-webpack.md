@@ -3,16 +3,10 @@ layout: post
 title: 'Code splitting com Vue.js e Webpack'
 main-class: 'dev'
 date: 2017-09-07 14:17:16 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -vue-js2
- -vue
- -code-splitting
- -import
- -webpack
+tags: vue-js vue-js2 vue code-splitting import webpack
 layout: post
-introduction: introducao
+author: jjsquad
 ---
 
 Se pararmos para ver como fazemos aplicações hoje me dia acabamos notando que separamos o nosso código front-end (me refiro ao javascript nesse caso) em varios arquivos o que facilita a manutenção, e com ajuda de ferramentas como [Webpack](https://webpack.github.io/) e [Browserify](http://browserify.org/) e até mesmo o [gulp-concat](https://www.npmjs.com/package/gulp-concat), fazemos a união desses arquivos para ficar todos em um só, porque entendemos que varios _requests_ para buscar vários arquivos era ruim e deixava lento o carregamento da página.

@@ -3,13 +3,10 @@ layout: post
 title: 'Utilizando Vuex na forma modular'
 main-class: 'dev'
 date: 2016-07-22 12:26:29 
-description: derscricao
 color: '#637a91'
-tags: vuex
- -mudular
- -modulos
+tags: vuex mudular modulos
 layout: post
-introduction: introducao
+author: gilvaju
 ---
 
 ##Coisas "fora" do Vuex

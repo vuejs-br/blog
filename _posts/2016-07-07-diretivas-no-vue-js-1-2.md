@@ -3,12 +3,10 @@ layout: post
 title: 'Diretivas no Vue.js #1'
 main-class: 'dev'
 date: 2016-07-07 04:22:15 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -diretivas
+tags: vue-js diretivas
 layout: post
-introduction: introducao
+author: jjsquad
 ---
 
 Além do conjunto padrão de diretivas embarcadas, o Vue também permite registrar diretivas personalizadas que fornecem um mecanismo para alterações de dados mapeamendo o comportamento no DOM.

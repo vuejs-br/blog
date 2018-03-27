@@ -3,12 +3,10 @@ layout: post
 title: 'Criando plugins para o Vue.js'
 main-class: 'dev'
 date: 2016-07-28 14:00:29 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -plugins
+tags: vue-js plugins
 layout: post
-introduction: introducao
+author: jjsquad
 ---
 
 Quando usamos o Vue usamos também alguns plugins para complementar o mesmo tal como, [vue-router](https://github.com/vuejs/vue-router) , [vuex](https://github.com/vuejs/vuex), [vue-validator](https://github.com/vuejs/vue-validator), etc... já que ele traz somente o necessário.

@@ -3,13 +3,10 @@ layout: post
 title: 'Vedobot, um bot para o Slack!'
 main-class: 'dev'
 date: 2016-08-01 17:33:06 
-description: derscricao
 color: '#637a91'
-tags: vue-js
- -bot
- -slack
+tags: vue-js bot slack
 layout: post
-introduction: introducao
+author: jjsquad
 ---
 
 A comunidade do Vue aqui no Brasil vem crescendo bastante, a galera conversa bastante nos grupos, posts saindo a todo momento, projetos sendo criados, enfim... tá uma loucura =D

@@ -3,16 +3,10 @@ layout: post
 title: 'Criando componentes reutilizáveis (mestre/detalhe)'
 main-class: 'dev'
 date: 2018-02-19 16:19:42 
-description: derscricao
 color: '#637a91'
-tags: vue
- -componentes
- -props
- -event
- -composicao
- -slots
+tags: vue componentes props event composicao slots
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Quando trabalhamos com componentes, seja em qualquer framework (com vue fica mais divertido!), estamos utilizando um dos requisitos mais básicos da programação que é dividir um problema em diversos problemas menores. Neste caso, dividimos uma interface em pedaços, e a montamos como se fosse um lego. O uso de componentes é vital para um perfeito entendimento de um sistema, pois seria humanamente impossível criar todo um sistema em apenas um arquivo. 

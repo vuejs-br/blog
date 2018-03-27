@@ -3,12 +3,10 @@ layout: post
 title: 'Carregando dados assíncronos com o Vue-router'
 main-class: 'dev'
 date: 2016-07-01 11:41:01 
-description: derscricao
 color: '#637a91'
-tags: vue-router
- -vue-js
+tags: vue-router vue-js
 layout: post
-introduction: introducao
+author: vinicius
 ---
 
 Que o **Vue-router** é poderoso, isso nós já sabemos, correto? 

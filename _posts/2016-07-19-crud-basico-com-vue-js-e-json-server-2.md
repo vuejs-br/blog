@@ -3,11 +3,10 @@ layout: post
 title: 'CRUD básico com Vue.js e json-server #2'
 main-class: 'dev'
 date: 2016-07-19 13:12:34 
-description: derscricao
 color: '#637a91'
 tags: vue-js
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Com o servidor/api prontos ([artigo anterior](http://www.vuejs-brasil.com.br/crud-basico-com-vue-js-e-json-server-parte-1/)) podemos começar a criar a tela com o crud de cervejarias.

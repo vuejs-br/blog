@@ -3,14 +3,10 @@ layout: post
 title: 'Como é a popularidade do Vue.JS no mercado?'
 main-class: 'dev'
 date: 2016-08-10 20:05:50 
-description: derscricao
 color: '#637a91'
-tags: evan-you
- -quora
- -traducao
- -mercado
+tags: evan-you quora traducao mercado
 layout: post
-introduction: introducao
+author: pablohpsilva
 ---
 
 Este post é uma tradução livre da [resposta](https://www.quora.com/How-popular-is-VueJS-in-the-industry/answer/Evan-You-3) do criador do VueJS [**Evan You**](https://github.com/yyx990803) a uma pergunta feita no Quora: [**How popular is VueJS in the industry?**](https://www.quora.com/How-popular-is-VueJS-in-the-industry)

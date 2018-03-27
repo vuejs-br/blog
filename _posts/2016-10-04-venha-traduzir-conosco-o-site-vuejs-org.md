@@ -3,11 +3,10 @@ layout: post
 title: 'Venha traduzir conosco o site vuejs.org'
 main-class: 'dev'
 date: 2016-10-04 13:13:23 
-description: derscricao
 color: '#637a91'
 tags: 
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 **OBRIGADO A TODOS!**

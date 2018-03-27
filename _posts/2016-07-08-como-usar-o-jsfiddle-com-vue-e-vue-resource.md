@@ -3,11 +3,10 @@ layout: post
 title: 'Como usar o JSFiddle com Vue e Vue Resource'
 main-class: 'dev'
 date: 2016-07-08 11:40:01 
-description: derscricao
 color: '#637a91'
 tags: ferramentas
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Existem vários "editores" html/javascript no mercado. Temos o codepen, jsfiddle, jsbin, Codenvy...

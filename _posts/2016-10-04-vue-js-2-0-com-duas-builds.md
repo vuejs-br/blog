@@ -3,12 +3,10 @@ layout: post
 title: 'Vue.js 2.0 com duas builds?'
 main-class: 'dev'
 date: 2016-10-04 13:54:33 
-description: derscricao
 color: '#637a91'
-tags: vue2
- -vuejs
+tags: vue2 vuejs
 layout: post
-introduction: introducao
+author: jjsquad
 ---
 
 Se você já começou a brincar com a nova versão do Vue, provavelmente ouviu falar de duas builds que estão sendo liberadas.

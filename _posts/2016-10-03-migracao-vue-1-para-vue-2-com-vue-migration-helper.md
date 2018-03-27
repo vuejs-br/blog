@@ -3,14 +3,10 @@ layout: post
 title: 'Migração Vue 1 para Vue 2 com vue-migration-helper'
 main-class: 'dev'
 date: 2016-10-03 17:31:17 
-description: derscricao
 color: '#637a91'
-tags: vue
- -vue2
- -migracao
- -ferramentas
+tags: vue vue2 migracao ferramentas
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Com o release oficial do Vue 2 já podemos iniciar a migração de nossas aplicações do Vue 1 para o Vue 2. Minha primeira dica é realizar esta migração do seu projeto em um branch separado no seu repositório. 

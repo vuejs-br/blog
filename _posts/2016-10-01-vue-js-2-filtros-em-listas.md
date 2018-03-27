@@ -3,18 +3,10 @@ layout: post
 title: 'Vue.js 2 - Filtros em Listas'
 main-class: 'dev'
 date: 2016-10-01 19:13:22 
-description: derscricao
 color: '#637a91'
-tags: vuejs2
- -vue2
- -listas
- -colections
- -arrays
- -axios
- -lodash
- -computeds
+tags: vuejs2 vue2 listas colections arrays axios lodash computeds
 layout: post
-introduction: introducao
+author: pablohpsilva
 ---
 
 Com a nova versão do Vue.js a possibilidade de aplicar filtros no `v-for` deixou de existir. Porém esse recurso sempre trouxe certa confusão e até mesmo perda de performance.

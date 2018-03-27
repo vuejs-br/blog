@@ -3,11 +3,10 @@ layout: post
 title: 'Crie rapidamente um projeto Vue com vue-cli e browserify'
 main-class: 'dev'
 date: 2016-06-28 14:06:15 
-description: derscricao
 color: '#637a91'
 tags: ferramentas
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Na maioria das vezes, quando nos deparamos com uma nova tecnologia, queremos de imediato testá-la, ver seu funcionamento na prática. Com o Vue isso não será diferente, e através de uma ferramenta chamada *vue-cli*, podemos criar uma estrutura de projeto simples, mas completa para o início de uma app em Vue.

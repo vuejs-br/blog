@@ -3,15 +3,10 @@ layout: post
 title: 'Comunicação entre componentes (V-ON) VueJs'
 main-class: 'dev'
 date: 2016-08-19 12:00:00 
-description: derscricao
 color: '#637a91'
-tags: vuejs
- -vue
- -events
- -v-on
- -components
+tags: vuejs vue events v-on components
 layout: post
-introduction: introducao
+author: gilvaju
 ---
 
 >Apesar que conter inúmeros artigos por aí a fora, poucos ou quase nenhum exemplifica uma maneira de comunicação entre componentes no Vue via `v-on`. 

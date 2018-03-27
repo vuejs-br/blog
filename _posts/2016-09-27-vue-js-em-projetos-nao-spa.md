@@ -3,16 +3,10 @@ layout: post
 title: 'Vue.js em projetos não SPA'
 main-class: 'dev'
 date: 2016-09-27 03:00:00 
-description: derscricao
 color: '#637a91'
-tags: spa
- -single-page-application
- -web-components
- -components
- -php
- -root-component
+tags: spa single-page-application web-components components php root-component
 layout: post
-introduction: introducao
+author: pablohpsilva
 ---
 
 Vue.js é só uma lib, mas em vários [artigos](http://www.vuejs-brasil.com.br/vue-router/) e exemplos já mostramos como ele pode ser usado para criar SPAs complexos.

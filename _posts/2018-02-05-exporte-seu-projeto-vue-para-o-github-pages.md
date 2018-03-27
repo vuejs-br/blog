@@ -3,14 +3,10 @@ layout: post
 title: 'Exporte seu projeto Vue para o GitHub Pages'
 main-class: 'dev'
 date: 2018-02-05 12:27:35 
-description: derscricao
 color: '#637a91'
-tags: vue
- -deploy
- -github
- -git
+tags: vue deploy github git
 layout: post
-introduction: introducao
+author: halfeld
 ---
 
 Neste artigo usaremos uma das diversas funcionalidades do GitHub, que é o GitHub Pages. Nele, é possível hospedar páginas web que podem se ser usadas inclusive para hospedar domínios reais, como o meu [danielschmitz.com.br](http://danielschmitz.com.br).
