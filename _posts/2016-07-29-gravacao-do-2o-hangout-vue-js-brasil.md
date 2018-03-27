@@ -6,7 +6,7 @@ date: 2016-07-29 02:09:27
 color: '#637a91'
 tags: 
 layout: post
-author: 1
+author: vedovelli
 ---
 
 Hangout realizado em 28 de Julho de 2016.

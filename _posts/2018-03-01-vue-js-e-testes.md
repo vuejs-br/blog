@@ -6,7 +6,7 @@ date: 2018-03-01 12:27:55
 color: '#637a91'
 tags: 
 layout: post
-author: 1
+author: vedovelli
 ---
 
 Um grande passo para qualquer desenvolvedor rumo à profissionalização é desenvolver orientado a testes. Código testado (e bem testado) é hoje o padrão nas empresas e um dos fatores decisivos no processo de seleção das empresas.

@@ -6,7 +6,7 @@ date: 2016-07-10 18:08:19
 color: '#637a91'
 tags: vue-js
 layout: post
-author: 1
+author: vedovelli
 ---
 
 Quando criamos métodos no Vue Object nós o fazemos dentro de um [objeto literal](http://blog.caelum.com.br/criacao-de-objetos-em-javascript/) `{}`, que é uma forma de iniciar um objeto usando apenas as chaves.

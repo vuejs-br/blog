@@ -6,7 +6,7 @@ date: 2016-07-15 12:17:34
 color: '#637a91'
 tags: 
 layout: post
-author: 1
+author: vedovelli
 ---
 
 Lista de componentes prontos para uso ou simples para estudo de caso.

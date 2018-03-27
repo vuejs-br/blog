@@ -6,7 +6,7 @@ date: 2016-07-06 12:04:53
 color: '#637a91'
 tags: vue-js
 layout: post
-author: 1
+author: vedovelli
 ---
 
 Vue.js é muito bom para se trabalhar com dados. Ele provê meios para acessar, modificar e validar os dados. Indo além ele atua como cola entre os elementos HTML e os dados, removendo do desenvolvedor a irritante tarefa de pegar referências aos elementos DOM apenas para mostra-los/esconde-los ou ler seus valores.

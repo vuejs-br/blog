@@ -6,7 +6,7 @@ date: 2017-02-25 22:44:07
 color: '#637a91'
 tags: quasar mobile hibrido
 layout: post
-author: 11
+author: vedovelli1
 ---
 
 É muito comum ver no mercado de trabalho desenvolvedores web que também se disponibilizam na área de desenvolvimento móvel, isso se deve ao fato de termos cada vez mais ferramentas para a construção de aplicativos híbridos, não só isso, como também temos cada vez mais ferramentas que estão usando linguagens e frameworks web para construir essas aplicações.
