@@ -16,200 +16,200 @@ google_analytics: 'UA-79980005-1'
 plugins: [jekyll-paginate]
 
 authors:
-	1:
-		name: Fabio Vedovelli
-		slug: vedovelli
-		email: vedovelli@gmail.com
-		gravatar: 63070a46ae3ac45778a7c5fa9e73f4a5
-		web: http://www.vedovelli.com.br
-		location: Santo André SP Brasil
-		facebook: fabio.vedovelli
-		twitter: vedovelli
-		accessibility: null
-		status: active
-		language: en_US
-		visibility: public
-		meta_title: null
-		meta_description: null
-    
-	3:
-		name: Vitor Arjol
-		slug: vitor-arjol
-		email: vitor.arjol@gmail.com
-		gravatar: 2962c7116ebce7acf672954cebe10a3d
-		web: null
-		location: null
-		facebook: null
-		twitter: null
-		accessibility: null
-		status: active
-		language: en_US
-		visibility: public
-		meta_title: null
-		meta_description: null
-    
-	4:
-		name: Daniel Schmitz
-		slug: daniel-schmitz
-		email: danieljfa@gmail.com
-		gravatar: b2da8fcc6cfdaf3bbe1f17aa9fabde39
-		description: Daniel Schmitz é autor de vários livros sobre programação e desenvolvimento de sistemas.
-		web: http://www.danielschmitz.com.br
-		location: Juiz de Fora - MG 
-		facebook: null
-		twitter: daniel_schmitz
-		accessibility: null
-		status: active
-		language: en_US
-		visibility: public
-		meta_title: null
-		meta_description: null
-		tour: null
-    
-	5:
-		name: Alan Albuquerque (ktquez)
-		slug: ktquez
-		email: ktquez@gmail.com
-		gravatar: 37d33795dabefdf84a122112e91f2976
-		description: FullStack web developer espírito empreendedor autodidata e amo desenvolver sobre novas tecnologias.
-		web: http://ktquez.com
-		location: Recife PE
-		facebook: null
-		twitter: ktquez
-		accessibility: null
-		status: active
-		language: en_US
-		visibility: public
-		meta_title: null
-		meta_description: null
-		tour: null
+    1:
+    name: Fabio Vedovelli
+    slug: vedovelli
+    email: vedovelli@gmail.com
+    gravatar: 63070a46ae3ac45778a7c5fa9e73f4a5
+    web: http://www.vedovelli.com.br
+    location: Santo André SP Brasil
+    facebook: fabio.vedovelli
+    twitter: vedovelli
+    accessibility: null
+    status: active
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
 
-	6:
-		name: Igor Luíz
-		slug: halfeld
-		email: igor@devstacks.com.br
-		gravatar: 
-		cover: /content/images/2016/09/banner.png
-		description: Desenvolvedor Full Stack apesar de que a criança interior ainda permanece no front curte muito javascript compartilhar os paranauês que sabe e contribuir com software livre :D
-		web: http://igorluiz.me/
-		location: São Paulo Brasil
-		facebook: null
-		twitter: null
-		accessibility: null
-		status: active
-		language: en_US
-		visibility: public
-		meta_title: null
-		meta_description: null
-		tour: null
-    
-	7:
-		name: Vinicius Reis
-		slug: vinicius
-		email: luiz.vinicius73@gmail.com
-		gravatar: //www.gravatar.com/avatar/f803c45d62a468e0cb990398c004bd3e?s=250&d=mm&r=x
-		cover: /content/images/2016/07/1500x500.jpg
-		description: Sou Web Developer apaixonado pelo trabalho.\nEscrevo posts contribuo com projetos open-source e dou aulas no codecasts.com.br.\nNo meio tempo entre tantas coisas para fazer tento me passar por gamer.\n
-		web: https://codecasts.com.br/
-		location: Rio de Janeiro
-		facebook: LuizVinicius73
-		twitter: LuizVinicius73
-		accessibility: null
-		status: active
-		language: en_US
-		visibility: public
-		meta_title: null
-		meta_description: null
-    
-	8:
-		name: Jorge Gonçalves Junior
-		slug: jjsquad
-		email: jorge.techinfo@gmail.com
-		gravatar: /content/images/2016/07/Foto-em-20-07-16-a-s-03-50.jpg
-		cover: null
-		description: null
-		web: http://onenuvem.com
-		location: Alvorada RS
-		facebook: null
-		twitter: null
-		accessibility: null
-		status: warn-1
-		language: en_US
-		visibility: public
-		meta_title: null
-		meta_description: null
+    3:
+    name: Vitor Arjol
+    slug: vitor-arjol
+    email: vitor.arjol@gmail.com
+    gravatar: 2962c7116ebce7acf672954cebe10a3d
+    web: null
+    location: null
+    facebook: null
+    twitter: null
+    accessibility: null
+    status: active
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
 
-    
-	9:
-		name: Pablo Henrique Penha Silva
-		slug: pablohpsilva
-		email: pablohpsilva@gmail.com
-		gravatar: 
-		cover: 
-		description: null
-		web: https://medium.com/@pablohpsilva
-		location: Uberlândia Brasil
-		facebook: pablohpenhasilva
-		twitter: PabloHPSilva
-		accessibility: null
-		status: active
-		language: en_US
-		visibility: public
-		meta_title: null
-		meta_description: null
-    
-	10:
-		name: Gilvan Júnior
-		slug: gilvaju
-		email: vue@gilvancosta.com
-		gravatar: /content/images/2016/10/Foto-para-perfil.jpg
-		cover: null
-		description: null
-		web: null
-		location: null
-		facebook: null
-		twitter: null
-		accessibility: null
-		status: active
-		language: en_US
-		visibility: public
-		meta_title: null
-		meta_description: null
-		tour: null
+    4:
+    name: Daniel Schmitz
+    slug: daniel-schmitz
+    email: danieljfa@gmail.com
+    gravatar: b2da8fcc6cfdaf3bbe1f17aa9fabde39
+    description: Daniel Schmitz é autor de vários livros sobre programação e desenvolvimento de sistemas.
+    web: http://www.danielschmitz.com.br
+    location: Juiz de Fora - MG 
+    facebook: null
+    twitter: daniel_schmitz
+    accessibility: null
+    status: active
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
+    tour: null
 
-	11:
-		name: Leonardo Vilarinho
-		slug: leonardovilarinho
-		email: leonardo-i@outlook.com
-		gravatar: 
-		description: Freelancer Full-Stack PHP
-		web: https://github.com/leonardovilarinho
-		location: Ituiutaba - MG
-		facebook: l.vilarinh
-		twitter: leonardovdev
-		accessibility: null
-		status: active
-		language: en_US
-		visibility: public
-		meta_title: null
-		meta_description: null
+    5:
+    name: Alan Albuquerque (ktquez)
+    slug: ktquez
+    email: ktquez@gmail.com
+    gravatar: 37d33795dabefdf84a122112e91f2976
+    description: FullStack web developer espírito empreendedor autodidata e amo desenvolver sobre novas tecnologias.
+    web: http://ktquez.com
+    location: Recife PE
+    facebook: null
+    twitter: ktquez
+    accessibility: null
+    status: active
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
+    tour: null
 
-	12:	
-		name: emanuelgdesouza
-		slug: emanuelgdesouza
-		email: emanuelgdesouza@gmail.com
-		gravatar: d8a5a663020f14bc3030ee1ec1c5c6a7
-		cover: null
-		description: null
-		web: null
-		location: null
-		facebook: null
-		twitter: null
-		accessibility: null
-		status: invited-pending
-		language: en_US
-		visibility: public
-		meta_title: null
-		meta_description: null
+    6:
+    name: Igor Luíz
+    slug: halfeld
+    email: igor@devstacks.com.br
+    gravatar: 
+    cover: /content/images/2016/09/banner.png
+    description: Desenvolvedor Full Stack apesar de que a criança interior ainda permanece no front curte muito javascript compartilhar os paranauês que sabe e contribuir com software livre :D
+    web: http://igorluiz.me/
+    location: São Paulo Brasil
+    facebook: null
+    twitter: null
+    accessibility: null
+    status: active
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
+    tour: null
 
-o
+    7:
+    name: Vinicius Reis
+    slug: vinicius
+    email: luiz.vinicius73@gmail.com
+    gravatar: //www.gravatar.com/avatar/f803c45d62a468e0cb990398c004bd3e?s=250&d=mm&r=x
+    cover: /content/images/2016/07/1500x500.jpg
+    description: Sou Web Developer apaixonado pelo trabalho.\nEscrevo posts contribuo com projetos open-source e dou aulas no codecasts.com.br.\nNo meio tempo entre tantas coisas para fazer tento me passar por gamer.\n
+    web: https://codecasts.com.br/
+    location: Rio de Janeiro
+    facebook: LuizVinicius73
+    twitter: LuizVinicius73
+    accessibility: null
+    status: active
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
+
+    8:
+    name: Jorge Gonçalves Junior
+    slug: jjsquad
+    email: jorge.techinfo@gmail.com
+    gravatar: /content/images/2016/07/Foto-em-20-07-16-a-s-03-50.jpg
+    cover: null
+    description: null
+    web: http://onenuvem.com
+    location: Alvorada RS
+    facebook: null
+    twitter: null
+    accessibility: null
+    status: warn-1
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
+
+
+    9:
+    name: Pablo Henrique Penha Silva
+    slug: pablohpsilva
+    email: pablohpsilva@gmail.com
+    gravatar: 
+    cover: 
+    description: null
+    web: https://medium.com/@pablohpsilva
+    location: Uberlândia Brasil
+    facebook: pablohpenhasilva
+    twitter: PabloHPSilva
+    accessibility: null
+    status: active
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
+
+    10:
+    name: Gilvan Júnior
+    slug: gilvaju
+    email: vue@gilvancosta.com
+    gravatar: /content/images/2016/10/Foto-para-perfil.jpg
+    cover: null
+    description: null
+    web: null
+    location: null
+    facebook: null
+    twitter: null
+    accessibility: null
+    status: active
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
+    tour: null
+
+    11:
+    name: Leonardo Vilarinho
+    slug: leonardovilarinho
+    email: leonardo-i@outlook.com
+    gravatar: 
+    description: Freelancer Full-Stack PHP
+    web: https://github.com/leonardovilarinho
+    location: Ituiutaba - MG
+    facebook: l.vilarinh
+    twitter: leonardovdev
+    accessibility: null
+    status: active
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
+
+    12:	
+    name: emanuelgdesouza
+    slug: emanuelgdesouza
+    email: emanuelgdesouza@gmail.com
+    gravatar: d8a5a663020f14bc3030ee1ec1c5c6a7
+    cover: null
+    description: null
+    web: null
+    location: null
+    facebook: null
+    twitter: null
+    accessibility: null
+    status: invited-pending
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
+
+
