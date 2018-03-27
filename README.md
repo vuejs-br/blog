@@ -13,7 +13,7 @@ O que está faltando:
 
 - [x] Comentários do disquss
 - [ ] Importar as imagens de capa de artigo
-- [ ] Configurar os autores de cada artigo
+- [x] Configurar os autores de cada artigo
 - [ ] Configurar as tags e criar uma página de tags
 
 
@@ -38,7 +38,7 @@ layout: post
 title: 'Trabalhando com arquivos .env no Vue'
 date: 2018-03-05 12:11:59 
 layout: post
-author: danielschmitz                # <<<< aqui !!
+author: danielschmitz                
 ---
 
 Uma dúvida interessante que recebi de um leitor foi em como trabalhar de forma correta com configurações distintas entre o servidor de........
