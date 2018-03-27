@@ -17,21 +17,21 @@ plugins: [jekyll-paginate]
 
 #authors
 authors:
-    1:	
-        name: Fabio Vedovelli
-        slug: vedovelli
-        email: vedovelli@gmail.com
-        gravatar: 63070a46ae3ac45778a7c5fa9e73f4a5
-        web: http://www.vedovelli.com.br
-        location: Santo André SP Brasil
-        facebook: fabio.vedovelli
-        twitter: @vedovelli
-        accessibility: null
-        status: active
-        language: en_US
-        visibility: public
-        meta_title: null
-        meta_description: null
+	1:
+		name: Fabio Vedovelli
+		slug: vedovelli
+		email: vedovelli@gmail.com
+		gravatar: 63070a46ae3ac45778a7c5fa9e73f4a5
+		web: http://www.vedovelli.com.br
+		location: Santo André SP Brasil
+		facebook: fabio.vedovelli
+		twitter: @vedovelli
+		accessibility: null
+		status: active
+		language: en_US
+		visibility: public
+		meta_title: null
+		meta_description: null
     
     3:
         name: Vitor Arjol
