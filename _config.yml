@@ -17,7 +17,7 @@ plugins: [jekyll-paginate]
 
 #authors
 authors:
-  vedovelli:
+  1:
     name: Fabio Vedovelli
     slug: vedovelli
     email: vedovelli@gmail.com
