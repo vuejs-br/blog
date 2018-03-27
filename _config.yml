@@ -15,7 +15,6 @@ domain_name: 'http://www.vuejs-brasil.com.br/'
 google_analytics: 'UA-79980005-1'
 plugins: [jekyll-paginate]
 
-#authors
 authors:
 	1:
 		name: Fabio Vedovelli
