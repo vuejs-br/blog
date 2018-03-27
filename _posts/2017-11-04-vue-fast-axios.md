@@ -6,7 +6,7 @@ date: 2017-11-04 18:52:34
 color: '#637a91'
 tags: vue2 axios
 layout: post
-author: vedovelli1
+author: vedovelli
 ---
 
 Olá pessoal, nesse artigo estarei mostrando um plugin bem simples que desenvolvi, o mesmo foi criado com intuito de facilitar o envio e validação de requisições no Vue.js.
