@@ -6,7 +6,7 @@ date: 2017-02-28 04:28:04
 color: '#637a91'
 tags: testes vue2
 layout: post
-author: vedovelli1
+author: vedovelli
 ---
 
 Uma parte essencial para que você possa dormir tranquilo sem ficar pensando naquela alteração de uma linha que você fez sem testar o restante do seu sistema.
