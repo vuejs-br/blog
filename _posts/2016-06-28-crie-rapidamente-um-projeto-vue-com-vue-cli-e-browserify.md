@@ -6,7 +6,7 @@ date: 2016-06-28 14:06:15
 color: '#637a91'
 tags: ferramentas
 layout: post
-author: 4
+author: daniel-schmitz
 ---
 
 Na maioria das vezes, quando nos deparamos com uma nova tecnologia, queremos de imediato testá-la, ver seu funcionamento na prática. Com o Vue isso não será diferente, e através de uma ferramenta chamada *vue-cli*, podemos criar uma estrutura de projeto simples, mas completa para o início de uma app em Vue.

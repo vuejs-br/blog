@@ -6,7 +6,7 @@ date: 2016-07-08 11:40:01
 color: '#637a91'
 tags: ferramentas
 layout: post
-author: 4
+author: daniel-schmitz
 ---
 
 Existem vários "editores" html/javascript no mercado. Temos o codepen, jsfiddle, jsbin, Codenvy...

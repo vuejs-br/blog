@@ -6,7 +6,7 @@ date: 2016-07-07 04:22:15
 color: '#637a91'
 tags: vue-js diretivas
 layout: post
-author: 6
+author: halfeld
 ---
 
 Além do conjunto padrão de diretivas embarcadas, o Vue também permite registrar diretivas personalizadas que fornecem um mecanismo para alterações de dados mapeamendo o comportamento no DOM.

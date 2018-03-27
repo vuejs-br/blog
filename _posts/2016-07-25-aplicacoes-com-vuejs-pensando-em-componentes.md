@@ -6,7 +6,7 @@ date: 2016-07-25 12:18:08
 color: '#637a91'
 tags: web-components components vuex flux events vue-js single-page-application
 layout: post
-author: 7
+author: vinicius
 ---
 
 ## O futuro é Lego!

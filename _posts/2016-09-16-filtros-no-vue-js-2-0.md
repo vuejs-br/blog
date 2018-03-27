@@ -6,7 +6,7 @@ date: 2016-09-16 13:09:23
 color: '#637a91'
 tags: filters filtros vue2 vue-js vue-js2 vue-2-0 vue-js-2-0
 layout: post
-author: 6
+author: halfeld
 ---
 
 Uma coisa muito útil são filtros, mas não confunda-os com diretivas, já vi uma galera aí tentando modificar o valor de um input com eles xD

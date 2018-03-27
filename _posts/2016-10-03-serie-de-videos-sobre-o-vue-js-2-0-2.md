@@ -6,7 +6,7 @@ date: 2016-10-03 00:15:00
 color: '#637a91'
 tags: vue2
 layout: post
-author: 6
+author: halfeld
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zp8JIDNiAS4?list=PLFtCenSt_W2Fxgh1fjjwXK20qg2MdC2wp" frameborder="0" allowfullscreen></iframe>

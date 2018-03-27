@@ -6,7 +6,7 @@ date: 2016-08-16 19:42:29
 color: '#637a91'
 tags: 
 layout: post
-author: 4
+author: daniel-schmitz
 ---
 
 Com a chegada do Vue 2 na versão RC (Release Candidate) já podemos dar uma olhada em geral nas mudanças que estão por vir. Primeiro, é preciso saber que houve sim alterações importantes no Vue 2, mas não uma completa reformulação da biblioteca (como aconteceu com Angular 2).

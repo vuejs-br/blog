@@ -6,7 +6,7 @@ date: 2018-01-31 23:52:47
 color: '#637a91'
 tags: 
 layout: post
-author: 4
+author: daniel-schmitz
 ---
 
 O Vue.js BR precisa de um fórum! Tópicos com dúvidas e dicas são bem vindos aos motores de busca se estiverem em um formato fácil de ver! É por isso que suas dúvidas no google sempre trazem páginas como o Stackoverflow, GitHub Issues, entre outros, e quase não trazem algo relativo a um grupo do facebook por exemplo, ou uma conversa no Slack. 

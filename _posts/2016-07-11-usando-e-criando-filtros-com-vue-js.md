@@ -6,7 +6,7 @@ date: 2016-07-11 11:56:04
 color: '#637a91'
 tags: vue-js
 layout: post
-author: 4
+author: daniel-schmitz
 ---
 
 Filtros são usados, na maioria das vezes, para formatar valores de *databind* (aqueles com {{ e }}). O exemplo a seguir irá pegar todo o valor de `msg` e transformar a primeira letra para maiúscula.

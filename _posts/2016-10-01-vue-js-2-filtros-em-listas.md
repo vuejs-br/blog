@@ -6,7 +6,7 @@ date: 2016-10-01 19:13:22
 color: '#637a91'
 tags: vuejs2 vue2 listas colections arrays axios lodash computeds
 layout: post
-author: 7
+author: vinicius
 ---
 
 Com a nova versão do Vue.js a possibilidade de aplicar filtros no `v-for` deixou de existir. Porém esse recurso sempre trouxe certa confusão e até mesmo perda de performance.

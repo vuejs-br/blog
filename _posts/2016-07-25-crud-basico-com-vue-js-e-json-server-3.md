@@ -6,7 +6,7 @@ date: 2016-07-25 19:10:27
 color: '#637a91'
 tags: vue-js components
 layout: post
-author: 4
+author: daniel-schmitz
 ---
 
 Seguindo o [artigo anterior](http://www.vuejs-brasil.com.br/crud-basico-com-vue-js-e-json-server-2/), já estamos exibindo os primeiros registros de cervejarias na tela. Mas como ainda não existe a paginação, precisamos criar este componente.

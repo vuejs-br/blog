@@ -6,7 +6,7 @@ date: 2017-01-03 02:36:25
 color: '#637a91'
 tags: 
 layout: post
-author: 9
+author: pablohpsilva
 ---
 
 O [vue-cli](https://github.com/vuejs/vue-cli) é uma ferramenta poderosa para a criação de templates para a iniciação de projetos.

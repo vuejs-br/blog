@@ -6,7 +6,7 @@ date: 2016-10-04 13:54:33
 color: '#637a91'
 tags: vue2 vuejs
 layout: post
-author: 6
+author: halfeld
 ---
 
 Se você já começou a brincar com a nova versão do Vue, provavelmente ouviu falar de duas builds que estão sendo liberadas.
