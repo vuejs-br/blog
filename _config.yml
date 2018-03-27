@@ -178,7 +178,7 @@ authors:
     meta_description: null
     tour: null
 
-  11:
+11:
     name: Leonardo Vilarinho
     slug: leonardovilarinho
     email: leonardo-i@outlook.com
@@ -195,23 +195,23 @@ authors:
     meta_title: null
     meta_description: null
 
-12:	
-  name: emanuelgdesouza
-  slug: emanuelgdesouza
-  email: emanuelgdesouza@gmail.com
-  gravatar: d8a5a663020f14bc3030ee1ec1c5c6a7
-  cover: null
-  description: null
-  web: null
-  location: null
-  facebook: null
-  twitter: null
-  accessibility: null
-  status: invited-pending
-  language: en_US
-  visibility: public
-  meta_title: null
-  meta_description: null
+  12:	
+    name: emanuelgdesouza
+    slug: emanuelgdesouza
+    email: emanuelgdesouza@gmail.com
+    gravatar: d8a5a663020f14bc3030ee1ec1c5c6a7
+    cover: null
+    description: null
+    web: null
+    location: null
+    facebook: null
+    twitter: null
+    accessibility: null
+    status: invited-pending
+    language: en_US
+    visibility: public
+    meta_title: null
+    meta_description: null
 
 	  
 
