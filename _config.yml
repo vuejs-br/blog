@@ -17,7 +17,7 @@ plugins: [jekyll-paginate]
 
 #authors
 authors:
-    vedovelli:	
+    1:	
         name: Fabio Vedovelli
         slug: vedovelli
         email: vedovelli@gmail.com
@@ -33,7 +33,7 @@ authors:
         meta_title: null
         meta_description: null
     
-    vitor-arjol:
+    3:
         name: Vitor Arjol
         slug: vitor-arjol
         email: vitor.arjol@gmail.com
@@ -49,7 +49,7 @@ authors:
         meta_title: null
         meta_description: null
     
-    daniel-schmitz:
+    4:
         name: Daniel Schmitz
         slug: daniel-schmitz
         email: danieljfa@gmail.com
@@ -67,7 +67,7 @@ authors:
         meta_description: null
         tour: null
     
-    ktquez:
+    5:
         name: Alan Albuquerque (ktquez)
         slug: ktquez
         email: ktquez@gmail.com
@@ -85,7 +85,7 @@ authors:
         meta_description: null
         tour: null
     
-    halfeld:
+    6:
         name: Igor Luíz
         slug: halfeld
         email: igor@devstacks.com.br
@@ -104,7 +104,7 @@ authors:
         meta_description: null
         tour: null
     
-    vinicius:
+    7:
         name: Vinicius Reis
         slug: vinicius
         email: luiz.vinicius73@gmail.com
@@ -122,7 +122,7 @@ authors:
         meta_title: null
         meta_description: null
     
-    jjsquad:
+    8:
         name: Jorge Gonçalves Junior
         slug: jjsquad
         email: jorge.techinfo@gmail.com
@@ -141,7 +141,7 @@ authors:
         meta_description: null
 
     
-    pablohpsilva:
+    9:
         name: Pablo Henrique Penha Silva
         slug: pablohpsilva
         email: pablohpsilva@gmail.com
@@ -159,7 +159,7 @@ authors:
         meta_title: null
         meta_description: null
     
-    gilvaju:
+    10:
         name: Gilvan Júnior
         slug: gilvaju
         email: vue@gilvancosta.com
@@ -178,7 +178,7 @@ authors:
         meta_description: null
         tour: null
 
-    leonardovilarinho:
+    11:
         name: Leonardo Vilarinho
         slug: leonardovilarinho
         email: leonardo-i@outlook.com
@@ -195,7 +195,7 @@ authors:
         meta_title: null
         meta_description: null
 
-    emanuelgdesouza:	
+    12:	
         uuid: f828a2e7-90ac-483b-bd15-6448c9efab16
         name: emanuelgdesouza
         slug: emanuelgdesouza
