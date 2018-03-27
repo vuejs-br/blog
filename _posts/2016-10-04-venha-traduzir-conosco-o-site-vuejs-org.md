@@ -11,9 +11,6 @@ author: daniel-schmitz
 
 **OBRIGADO A TODOS!**
 Nosso projeto já está ativo no website oficial!
-![](https://i.imgur.com/BA2A8y9.png)
-
-
 
 O Vue.js e suas ramificações constituem um projeto Open Source no qual o Evan You (o criador do Vue) vem trabalhando em tempo integral. Dentre as ramificações temos a documentação do website que possui um conjunto de páginas contendo diversas informações sobre o framework, compreendidas "basicamente" do Guia, da Api e dos Exemplos.
 
