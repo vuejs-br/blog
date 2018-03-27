@@ -16,7 +16,7 @@ google_analytics: 'UA-79980005-1'
 plugins: [jekyll-paginate]
 
 authors:
-    1:
+    vedovelli:
         name: Fabio Vedovelli
         slug: vedovelli
         email: vedovelli@gmail.com
@@ -32,7 +32,7 @@ authors:
         meta_title: null
         meta_description: null
 
-    3:
+    vitor-arjol:
         name: Vitor Arjol
         slug: vitor-arjol
         email: vitor.arjol@gmail.com
@@ -48,7 +48,7 @@ authors:
         meta_title: null
         meta_description: null
 
-    4:
+    daniel-schmitz:
         name: Daniel Schmitz
         slug: daniel-schmitz
         email: danieljfa@gmail.com
@@ -66,7 +66,7 @@ authors:
         meta_description: null
         tour: null
 
-    5:
+    ktquez:
         name: Alan Albuquerque (ktquez)
         slug: ktquez
         email: ktquez@gmail.com
@@ -84,7 +84,7 @@ authors:
         meta_description: null
         tour: null
 
-    6:
+    halfeld:
         name: Igor Luíz
         slug: halfeld
         email: igor@devstacks.com.br
@@ -103,7 +103,7 @@ authors:
         meta_description: null
         tour: null
 
-    7:
+    vinicius:
         name: Vinicius Reis
         slug: vinicius
         email: luiz.vinicius73@gmail.com
@@ -121,7 +121,7 @@ authors:
         meta_title: null
         meta_description: null
 
-    8:
+    jjsquad:
         name: Jorge Gonçalves Junior
         slug: jjsquad
         email: jorge.techinfo@gmail.com
@@ -140,7 +140,7 @@ authors:
         meta_description: null
 
 
-    9:
+    pablohpsilva:
         name: Pablo Henrique Penha Silva
         slug: pablohpsilva
         email: pablohpsilva@gmail.com
@@ -158,7 +158,7 @@ authors:
         meta_title: null
         meta_description: null
 
-    10:
+    gilvaju:
         name: Gilvan Júnior
         slug: gilvaju
         email: vue@gilvancosta.com
@@ -177,7 +177,7 @@ authors:
         meta_description: null
         tour: null
 
-    11:
+    leonardovilarinho:
         name: Leonardo Vilarinho
         slug: leonardovilarinho
         email: leonardo-i@outlook.com
@@ -194,7 +194,7 @@ authors:
         meta_title: null
         meta_description: null
 
-    12:	
+    emanuelgdesouza:	
         name: emanuelgdesouza
         slug: emanuelgdesouza
         email: emanuelgdesouza@gmail.com
