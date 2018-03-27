@@ -6,7 +6,7 @@ date: 2018-02-05 12:27:35
 color: '#637a91'
 tags: vue deploy github git
 layout: post
-author: halfeld
+author: 4
 ---
 
 Neste artigo usaremos uma das diversas funcionalidades do GitHub, que é o GitHub Pages. Nele, é possível hospedar páginas web que podem se ser usadas inclusive para hospedar domínios reais, como o meu [danielschmitz.com.br](http://danielschmitz.com.br).

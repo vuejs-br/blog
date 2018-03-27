@@ -6,7 +6,7 @@ date: 2016-07-20 11:14:48
 color: '#637a91'
 tags: vue-js web-components angular
 layout: post
-author: vinicius
+author: 5
 ---
 
 [Lógica de templates (Parte 1)](http://www.vuejs-brasil.com.br/vue-js-para-desenvolvedores-angularjs-parte-1-logica-de-templates/)  

@@ -6,7 +6,7 @@ date: 2016-11-25 19:51:52
 color: '#637a91'
 tags: 
 layout: post
-author: leonardovilarinho
+author: 9
 ---
 
 Para resolver um problema do meu trabalho (como sempre), queria criar um componente que era muito parecido com outro que já havia feito. Pensei bastante e resolvi dar uma lida em alguns artigos do Medium. Durante a leitura de um artigo que era contra o uso de mixins, encontrei um artigo sobre Higher-Order Components. O título me chamou atenção e acabou resolvendo o meu problema.

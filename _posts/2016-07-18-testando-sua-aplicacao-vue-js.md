@@ -6,7 +6,7 @@ date: 2016-07-18 13:12:25
 color: '#637a91'
 tags: vue-js testes tdd bdd
 layout: post
-author: jjsquad
+author: 6
 ---
 
 Testes de software já são uma realidade no nosso dia-a-dia de desenvolvedor, mas ainda existe uma parte que acham besteira fazer levantando umas justificativas como perda de tempo, curva de aprendizado(já que o estilo de programar muda).

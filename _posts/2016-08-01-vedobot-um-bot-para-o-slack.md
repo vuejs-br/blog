@@ -6,7 +6,7 @@ date: 2016-08-01 17:33:06
 color: '#637a91'
 tags: vue-js bot slack
 layout: post
-author: jjsquad
+author: 6
 ---
 
 A comunidade do Vue aqui no Brasil vem crescendo bastante, a galera conversa bastante nos grupos, posts saindo a todo momento, projetos sendo criados, enfim... tá uma loucura =D

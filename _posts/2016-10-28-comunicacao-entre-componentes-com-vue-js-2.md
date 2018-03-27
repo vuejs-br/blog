@@ -6,7 +6,7 @@ date: 2016-10-28 14:32:13
 color: '#637a91'
 tags: 
 layout: post
-author: leonardovilarinho
+author: 9
 ---
 
 Durante a [VanHackathon](https://www.vanhack.com/hackathon) eu tive alguns probleminhas pra entender como o Vue.js 2 tratava os eventos, visto que o meu tão querido *$dispatch* tornou-se obsoleto.

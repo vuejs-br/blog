@@ -6,7 +6,7 @@ date: 2016-06-30 11:36:50
 color: '#637a91'
 tags: vue-js vue-router single-page-application
 layout: post
-author: vitor-arjol
+author: 1
 ---
 
 A característica mais marcante de uma ***Single Page Application*** é a velocidade. Os elementos de interface já estão presentes e quando sua estrutura de servidor é bem montada (web service para prover os dados), a sensação que o usuário tem ao usar a aplicação é a de que a ela está instalada no próprio computador, tão rápida que é a resposta.

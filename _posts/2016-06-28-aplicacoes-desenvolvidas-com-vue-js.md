@@ -6,7 +6,7 @@ date: 2016-06-28 15:08:28
 color: '#637a91'
 tags: vue-js
 layout: post
-author: vitor-arjol
+author: 1
 ---
 
 Espaço reservado para expor aplicações desenvolvidas com Vue.js. Se a aplicação não for pública, ainda assim será bem vinda caso se possa colocar uma descrição do processo de desenvolvimento.

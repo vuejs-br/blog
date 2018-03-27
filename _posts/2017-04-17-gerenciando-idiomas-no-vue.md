@@ -6,7 +6,7 @@ date: 2017-04-17 18:11:09
 color: '#637a91'
 tags: idioma vue2 plugins
 layout: post
-author: daniel
+author: 11
 ---
 
 Temos um mundo cada vez mais conectado, em alguns lugares, o número de dispositivos ultrapassam o de habitantes. Esses dispositivos, por sua vez, têm o objetivo exclusivo de nos trazer informações, essas são apresentadas em idiomas, muitas vezes no inglês, mas em um planeta com diversos idiomas, é um diferencial disponibilizar dados em vários deles.

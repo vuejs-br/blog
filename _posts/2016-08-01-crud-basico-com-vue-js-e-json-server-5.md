@@ -6,7 +6,7 @@ date: 2016-08-01 12:21:33
 color: '#637a91'
 tags: vue-js
 layout: post
-author: halfeld
+author: 4
 ---
 
 Com a parte de [leitura da tela pronta](http://www.vuejs-brasil.com.br/crud-basico-com-vue-js-e-json-server-4/) (ler os dados, paginar e realizar a busca), podemos iniciar a codificação para inserir e editar as cervejarias. Esta codificação irá alterar bastante o código `Cervejarias.vue`, de forma que iremos a princípio mostrar quais são estas modificações, e no final do artigo mostrar o código por completo.

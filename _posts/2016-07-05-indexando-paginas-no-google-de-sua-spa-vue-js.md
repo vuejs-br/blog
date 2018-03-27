@@ -6,7 +6,7 @@ date: 2016-07-05 12:12:43
 color: '#637a91'
 tags: vue-js single-page-application
 layout: post
-author: vinicius
+author: 5
 ---
 
 Um dos temas mais discutidos quando envolve aplicações de página única (SPA) e a otimização para mecanismos de busca (SEO) é a dificuldade de indexar as páginas no índice e fazer com que os bots reconheçam as meta tags que foram modificadas dinamicamente através da aplicação Javascript.

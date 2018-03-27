@@ -6,7 +6,7 @@ date: 2018-02-12 17:38:34
 color: '#637a91'
 tags: toolkit iview ui interface
 layout: post
-author: halfeld
+author: 4
 ---
 
 Com o crescimento do *Vue* centenas de bibliotecas surgem a cada dia para dar suporte a ele, dentre eles temos algumas ligadas à interface, como o iView. Neste artigo veremos um pouco sobre ele, e em como usá-lo nos seus projetos. 

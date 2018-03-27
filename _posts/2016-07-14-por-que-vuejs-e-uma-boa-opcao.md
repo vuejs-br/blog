@@ -6,7 +6,7 @@ date: 2016-07-14 14:47:23
 color: '#637a91'
 tags: angular conceitos tecnologia web-components reactjs
 layout: post
-author: pablohpsilva
+author: 7
 ---
 
 **Vue.JS** é um nome bem peculiar para uma biblioteca javascript, principalmente para nós brasileiros, o povo do *huehuebr*. Porém esse é o nome da *lib* javascript que tem chamado a atenção das comunidades de desenvolvimento nos últimos meses.

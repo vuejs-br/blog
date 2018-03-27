@@ -6,7 +6,7 @@ date: 2016-09-19 18:05:11
 color: '#637a91'
 tags: vue2 transicao animacao css
 layout: post
-author: halfeld
+author: 4
 ---
 
 Na versão 2 do Vue teremos um completo suporte às transições de elementos da DOM da aplicação, tanto para inserção, exclusão ou alteração. Nesse artigo veremos alguns passos introdutórios para a sua compreensão.

@@ -6,7 +6,7 @@ date: 2016-07-12 11:53:23
 color: '#637a91'
 tags: 
 layout: post
-author: vinicius
+author: 5
 ---
 
 *Separei esse post inicialmente em 5 partes, para não ficarem muito extensos e poder utilizar de bastantes exemplos no decorrer da postagem, espero que curtam.*

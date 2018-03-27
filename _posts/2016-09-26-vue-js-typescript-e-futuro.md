@@ -6,7 +6,7 @@ date: 2016-09-26 12:53:06
 color: '#637a91'
 tags: 
 layout: post
-author: halfeld
+author: 4
 ---
 
 Tanto Vue quanto Typescript são ótimos em seus propósitos. O Vue como framework mvvm e o Typescript como uma "camada" tipada ao ES6. Para quem não conhece o typescript, pode-se pensar em javascript no padrão ES6 e com tipos, ou seja, podemos adicionar um tipo "string" a uma variável chamada "name". Tem gente que curte, tem gente que não curte.

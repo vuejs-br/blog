@@ -6,7 +6,7 @@ date: 2016-10-08 14:01:12
 color: '#637a91'
 tags: 
 layout: post
-author: leonardovilarinho
+author: 9
 ---
 
 Em todos os meus artigos tento trazer algumas curiosidades ou soluções de problemas que tenho nas aplicações que desenvolvo diariamente. O problema resolvido a algumas semanas atrás era o seguinte: 

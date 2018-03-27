@@ -6,7 +6,7 @@ date: 2016-08-03 12:05:29
 color: '#637a91'
 tags: vue-js
 layout: post
-author: halfeld
+author: 4
 ---
 
 Para finalizar o básico do CRUD, já temos a leitura com paginação, e a inclusão e edição de dados. Falta remover as cervejarias. 

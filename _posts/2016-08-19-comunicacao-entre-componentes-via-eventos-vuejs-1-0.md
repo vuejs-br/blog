@@ -6,7 +6,7 @@ date: 2016-08-19 12:00:00
 color: '#637a91'
 tags: vuejs vue events v-on components
 layout: post
-author: gilvaju
+author: 8
 ---
 
 >Apesar que conter inúmeros artigos por aí a fora, poucos ou quase nenhum exemplifica uma maneira de comunicação entre componentes no Vue via `v-on`. 

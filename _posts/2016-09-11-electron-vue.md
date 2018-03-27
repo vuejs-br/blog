@@ -6,7 +6,7 @@ date: 2016-09-11 12:25:56
 color: '#637a91'
 tags: vue-js electron electron-vue
 layout: post
-author: leonardovilarinho
+author: 9
 ---
 
 #### O que é?

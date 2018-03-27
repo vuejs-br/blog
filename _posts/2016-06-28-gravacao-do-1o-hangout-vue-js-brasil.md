@@ -6,7 +6,7 @@ date: 2016-06-28 11:24:45
 color: '#637a91'
 tags: eventos
 layout: post
-author: vitor-arjol
+author: 1
 ---
 
 Hangout realizado em 25 de Junho de 2016.

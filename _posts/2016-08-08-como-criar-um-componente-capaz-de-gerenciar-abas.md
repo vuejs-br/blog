@@ -6,7 +6,7 @@ date: 2016-08-08 03:07:52
 color: '#637a91'
 tags: vue-js components bootstrap
 layout: post
-author: halfeld
+author: 4
 ---
 
 Neste artigo veremos como criar um componente no qual irá renderizar abas, que opdem conter os mais diversos conteúdos. O objetivo final é criar um componente que possui este comportamento:

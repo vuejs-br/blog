@@ -6,7 +6,7 @@ date: 2016-07-28 12:08:45
 color: '#637a91'
 tags: vue-js eslint
 layout: post
-author: leonardovilarinho
+author: 9
 ---
 
 > Deveríamos saltar uma linha para abrir chaves ou não? E... quando formos separar argumentos em múltiplas linhas, deveríamos colocar a vírgula no final da linha ou no começo da próxima? *CamelCase*?

@@ -6,7 +6,7 @@ date: 2016-07-29 13:59:56
 color: '#637a91'
 tags: libs c3js d3js third-party
 layout: post
-author: pablohpsilva
+author: 7
 ---
 
 Em todos os projetos sempre acabamos usando várias bibliotecas para vários fins.  

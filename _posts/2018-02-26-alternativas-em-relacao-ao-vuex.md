@@ -6,7 +6,7 @@ date: 2018-02-26 11:58:16
 color: '#637a91'
 tags: 
 layout: post
-author: halfeld
+author: 4
 ---
 
 Você já deve ter lido que o [Vuex](https://vuex.vuejs.org/en/) é a melhor forma de manter o estado global de uma aplicação em Vue. E realmente é. É vital que você compreenda o Vuex e sua filosofia [Flux](https://facebook.github.io/flux/docs/overview.html) para poder criar aplicações poderosas e com um excelente gerenciamento de estado, inclusive pelo Vue DevTools.

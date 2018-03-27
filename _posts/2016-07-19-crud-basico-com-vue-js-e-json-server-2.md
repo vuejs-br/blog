@@ -6,7 +6,7 @@ date: 2016-07-19 13:12:34
 color: '#637a91'
 tags: vue-js
 layout: post
-author: halfeld
+author: 4
 ---
 
 Com o servidor/api prontos ([artigo anterior](http://www.vuejs-brasil.com.br/crud-basico-com-vue-js-e-json-server-parte-1/)) podemos começar a criar a tela com o crud de cervejarias.

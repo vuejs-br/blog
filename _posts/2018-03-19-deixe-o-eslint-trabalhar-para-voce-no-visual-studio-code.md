@@ -6,7 +6,7 @@ date: 2018-03-19 11:45:46
 color: '#637a91'
 tags: eslint webpack vue vscode
 layout: post
-author: halfeld
+author: 4
 ---
 
 Para quem não conhece o ESLint, podemos resumi-lo como um utilitário para o Javascript responsável em avaliar algumas, ou até dezenas, regras de formatação do seu código.
