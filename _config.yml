@@ -25,7 +25,7 @@ authors:
   web: http://www.vedovelli.com.br
   location: Santo André SP Brasil
   facebook: fabio.vedovelli
-  twitter: @vedovelli
+  twitter: vedovelli
   accessibility: null
   status: active
   language: en_US
@@ -58,7 +58,7 @@ authors:
         web: http://www.danielschmitz.com.br
         location: Juiz de Fora - MG 
         facebook: null
-        twitter: @daniel_schmitz
+        twitter: daniel_schmitz
         accessibility: null
         status: active
         language: en_US
@@ -76,7 +76,7 @@ authors:
         web: http://ktquez.com
         location: Recife PE
         facebook: null
-        twitter: @ktquez
+        twitter: ktquez
         accessibility: null
         status: active
         language: en_US
@@ -114,7 +114,7 @@ authors:
         web: https://codecasts.com.br/
         location: Rio de Janeiro
         facebook: LuizVinicius73
-        twitter: @LuizVinicius73
+        twitter: LuizVinicius73
         accessibility: null
         status: active
         language: en_US
@@ -151,7 +151,7 @@ authors:
         web: https://medium.com/@pablohpsilva
         location: Uberlândia Brasil
         facebook: pablohpenhasilva
-        twitter: @PabloHPSilva
+        twitter: PabloHPSilva
         accessibility: null
         status: active
         language: en_US
@@ -187,7 +187,7 @@ authors:
         web: https://github.com/leonardovilarinho
         location: Ituiutaba - MG
         facebook: l.vilarinh
-        twitter: @leonardovdev
+        twitter: leonardovdev
         accessibility: null
         status: active
         language: en_US
