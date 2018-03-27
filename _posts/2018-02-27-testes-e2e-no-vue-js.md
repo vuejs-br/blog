@@ -6,7 +6,7 @@ date: 2018-02-27 17:03:42
 color: '#637a91'
 tags: vue2 javascript e2e testes
 layout: post
-author: vedovelli1
+author: vedovelli
 ---
 
 Hoje em dia muito se fala em fazer testes automatizados para seus sistemas, e isso é um fato concreto, se seu sistema não é testado computacionalmente a tendência de surgir *bugs* na produção é gigante.
