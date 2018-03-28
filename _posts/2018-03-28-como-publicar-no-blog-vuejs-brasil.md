@@ -37,7 +37,7 @@ Após realizar o fork, todo o blog estará vinculado a sua conta, como se fosse 
 E navegue até o item *Github Pages*. Em *source*, escolha `master branch` e clique no botão `save`. A página será carregada e você verá uma informação sobre o endereço do seu blog "espelho". No meu caso, apareceu isso:
 
 <p align="center">
-<img src="https://i.imgur.com/oZwzM3w.png">
+<img src="https://i.imgur.com/oZwzM3w.png" border="1">
 </p>
 
 Para você, surgirá uma url diferente, mas que quando acessada, irá exibir o blog Vuejs Brasil na sua conta.
