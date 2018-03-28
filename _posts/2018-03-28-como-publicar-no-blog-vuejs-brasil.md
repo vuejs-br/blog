@@ -12,4 +12,36 @@ Nessa semana nós migramos o Blog para Jekyll, que integrado ao Github permitir�
 
 ## Pré requisitos
 
-O primeiro requisito que você precisa ter é uma conta no Github. Caso não tenha, acesse agora www.github.com.br e crie uma! Também será preciso um editor de textos, de preferência com um bom suporte ao MarkDown, o que é relativamente fácil. Por exemplo, ao usar o Visual Studio Code, o suporte ao MarkDown é feito automaticamente, sem a necessidade de plugin extras.   
+Tudo que o que você precisa para escrever um artigo para o Blog é possui um conta no [GitHub](https://github.com). É perfeitamente possível usar somente o site github para escrever o artigo. 
+
+Existem outra formas como, por exemplo, realizar o clone do nosso blog no seu sistema operacional, executar o jekyll em linha de comando para ver o site, realizar o Pull Request via linha de comando. Mas optamos, nesse momento, em usar somente o GitHub.
+
+## Fork
+
+Apos criar a sua conta é necessário fazer o que chamamos de *fork*, que é uma cópia de todo o blog para a sua conta. Para fazer isso, acesse [https://github.com/vuejs-br/blog](https://github.com/vuejs-br/blog) e clique no botão `fork`, conforme a imagem a seguir:
+
+<p align="center">
+<img src="https://i.imgur.com/5eXjh5q.png">
+</p>
+
+Após realizar o fork, todo o blog estará vinculado a sua conta, como se fosse um projeto seu.
+
+## Website
+
+É interessante configurar o seu fork para que ele possa ser visto também como um site web, assim você poderá ver como o seu artigo está formatado dentro no site. Para realizar esta configuração, acesse o item `Settings` do projeto:
+
+<p align="center">
+<img src="https://i.imgur.com/dHZdc9q.png">
+</p>
+
+E navegue até o item *Github Pages*. Em *source*, escolha `master branch` e clique no botão `save`. A página será carregada e você verá uma informação sobre o endereço do seu blog "espelho". No meu caso, apareceu isso:
+
+<p align="center">
+<img src="https://i.imgur.com/oZwzM3w.png">
+</p>
+
+Para você, surgirá uma url diferente, mas que quando acessada, irá exibir o blog Vuejs Brasil na sua conta.
+
+## Verificar se você já é autor
+
+
