@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Como publicar artigos no nosso blog'
-date: 2018-03-19 11:45:46 
+date: 2018-03-28 11:45:46 
 tags: blog markdown publicar
 author: daniel-schmitz
 ---
