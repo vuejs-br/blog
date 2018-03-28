@@ -178,6 +178,18 @@ Para colar um código inteiro, você pode usar a seguinte marcação:
 
 Após escrever o artigo, você poderá enviá-lo para o nosso Blog oficial, através de uma ação chamada Pull Request. Esta ação significa que o que você comitou para o seu github será aplicado na conta original do nosso Blog, que é onde o *fork* foi feito originalmente.
 
+O Github mostra a informação do seu progresso em relação ao fork na página do projeto, incluindo o link para que você fazer o Pull Request:
 
+<p align="center">
+<img src="https://i.imgur.com/aIJPpkD.png">
+</p>
+
+Ao clicar no link `Pull Request`, surge uma página mostrando suas alterações e um botão verde `Create Pull Request`. Ao clicar nele, o GitHub irá analisar se o Pull Request está Ok para se integrar ao repositório original. Caso esteja, basta adicionar um comentário e clicar em `Create Pull Request`.
+
+<p align="center">
+<img src="https://i.imgur.com/7eHUKoJ.png">
+</p>
+
+Após realizar o PR, basta aguardar a aprovação de um dos nossos moderadores.
 
 
