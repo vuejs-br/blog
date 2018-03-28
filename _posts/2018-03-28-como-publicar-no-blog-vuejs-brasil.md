@@ -129,7 +129,7 @@ author: daniel-schmitz
 
 Após  configuração inicial você pode iniciar a escrita, que deve seguir os padrões de um documento markdown. Esta linguagem é extremamente simples de usar e você não necessitará se preocupar com formatação. Use apenas Markdown e seu artigo ficará bem formatado visualmente. 
 
-Para aprender um pouco mais sobre MarkDown, acesse este link.
+Para aprender um pouco mais sobre MarkDown, acesse este [link](https://guides.github.com/features/mastering-markdown/).
 
 Rapidamente, podemos resumir a sua marcação da seguinte forma:
 
