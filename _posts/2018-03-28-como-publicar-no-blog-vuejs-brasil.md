@@ -42,6 +42,20 @@ E navegue até o item *Github Pages*. Em *source*, escolha `master branch` e cli
 
 Para você, surgirá uma url diferente, mas que quando acessada, irá exibir o blog Vuejs Brasil na sua conta.
 
-## Verificar se você já é autor
+## Verifique se você já é autor
+
+É a primeira vez que você publica no site? Já pulicou? Essas informações estão configuradas no arquivo `_config.yml`. Acesse-o e encontre o item `authors`. Verifique se o seu nome está nas entradas e caso não encontre, crie uma seguindo as regras de formatação, e preenchendo todos os campos, se possível. 
+
+Lembre que, para inserir uma nova entrada, a sua "chave" deve ser diferente das outras. Usamos a chave no formato:
+
+- Seu nome e sobrenome 
+- Tudo em minusculos
+- Sem espaços
+- Sem acentos
+- Use hífen para espaços
+
+Supondo que seu nome seja "Fulano Silva", uma entrada válida seria:
+
+
 
 
