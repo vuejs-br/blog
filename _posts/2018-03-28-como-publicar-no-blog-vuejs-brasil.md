@@ -8,8 +8,6 @@ layout: post
 author: daniel-schmitz
 ---
 
-# Como publicar no Blog Vuejs Brasil
-
 Nessa semana nós migramos o Blog para Jekyll, que integrado ao Github permitirá que qualquer pessoa possa publicar artigos. O processo de publicação é baseado no que chamamos de PR, que é o Pull Request do Git. Vamos, nesse artigo, mostrar o passo a passo de como fazer isso.
 
 ## Pré requisitos
