@@ -7,7 +7,7 @@ warning_message: "Estamos em processo de migração. <br/> Algumas coisas podem 
 
 permalink: /:title/
 markdown: kramdown
-highlighter: pygments
+highlighter: 'rouge'
 logo: true
 paginate: 15
 baseurl: /
