@@ -10,7 +10,7 @@ Nessa semana nós migramos o Blog para Jekyll, que integrado ao Github permitir�
 
 ## Pré requisitos
 
-Tudo que o que você precisa para escrever um artigo para o Blog é possui um conta no [GitHub](https://github.com). É perfeitamente possível usar somente o site github para escrever o artigo. 
+Tudo que o que você precisa para escrever um artigo para o Blog é possuir uma conta no [GitHub](https://github.com). É perfeitamente possível usar somente o site github para escrever o artigo. 
 
 Existem outra formas como, por exemplo, realizar o clone do nosso blog no seu sistema operacional, executar o jekyll em linha de comando para ver o site, realizar o Pull Request via linha de comando. Mas optamos, nesse momento, em usar somente o GitHub.
 
