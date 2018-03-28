@@ -56,6 +56,16 @@ Lembre que, para inserir uma nova entrada, a sua "chave" deve ser diferente das 
 
 Supondo que seu nome seja "Fulano Silva", uma entrada válida seria:
 
-
+```yml
+fulano-silva:
+    name: Fulano Silva
+    email: fulanosilva@gmail.com
+    gravatar: HASH DO GRAVATAR
+    description: Eu sou o fulano silva
+    web: http://fulanosilva.com
+    location: Fulanópilis
+    facebook: fulanosilva
+    twitter: fulanosilva
+```
 
 
