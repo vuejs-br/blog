@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Como publicar artigos no nosso blog'
-date: 2018-03-19 11:45:46 
+date: 2018-03-28 11:45:46 
 tags: blog markdown publicar
 author: daniel-schmitz
 ---
@@ -10,7 +10,7 @@ Nessa semana nós migramos o Blog para Jekyll, que integrado ao Github permitir�
 
 ## Pré requisitos
 
-Tudo que o que você precisa para escrever um artigo para o Blog é possui um conta no [GitHub](https://github.com). É perfeitamente possível usar somente o site github para escrever o artigo. 
+Tudo que o que você precisa para escrever um artigo para o Blog é possuir uma conta no [GitHub](https://github.com). É perfeitamente possível usar somente o site github para escrever o artigo. 
 
 Existem outra formas como, por exemplo, realizar o clone do nosso blog no seu sistema operacional, executar o jekyll em linha de comando para ver o site, realizar o Pull Request via linha de comando. Mas optamos, nesse momento, em usar somente o GitHub.
 
@@ -129,7 +129,7 @@ author: daniel-schmitz
 
 Após  configuração inicial você pode iniciar a escrita, que deve seguir os padrões de um documento markdown. Esta linguagem é extremamente simples de usar e você não necessitará se preocupar com formatação. Use apenas Markdown e seu artigo ficará bem formatado visualmente. 
 
-Para aprender um pouco mais sobre MarkDown, acesse este link.
+Para aprender um pouco mais sobre MarkDown, acesse este [link](https://guides.github.com/features/mastering-markdown/).
 
 Rapidamente, podemos resumir a sua marcação da seguinte forma:
 
