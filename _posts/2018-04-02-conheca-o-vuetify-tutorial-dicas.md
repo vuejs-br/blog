@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Conheça o Vuetify com este tutorial'
+title: 'Conheça o Vuetify - parte 1'
 date: 2018-04-02 09:00:00 
 tags: componentes vuetify css 
 author: daniel-schmitz
@@ -80,6 +80,6 @@ E os arquivos:
 
 - **main.js** Este arquivo importa e cria a instância Vue, associando ele àquela *div id='app'*. O *router* também é iniciado, onde os demais arquivos *vue* serão instanciados. Possivelmente você irá alterar este arquivo em algum momento do projeto, adicionando mais bibliotecas.
 
-## Analisando os componentes iniciais do Vuetify
+No próximo artigo veremos um pouco mais sobre os componentes que estão presentes no `App.vue`, até lá!
 
 
