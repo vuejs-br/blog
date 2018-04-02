@@ -8,6 +8,8 @@ author: daniel-schmitz
 
 O Vuetify é um framework responsivo em Vue, baseado no Material Design. Já possui uma boa gama de componentes e uma documentação sólida. Neste artigo iremos conhecê-lo através de um tutorial completo, criando uma pequena aplicação para ler dados de uma conta no GitHub.
 
+ > **Eba!** Toda segunda tem artigo sobre Vue no site Vuejs Brasil. Quer sugerir um tema? Acesse nosso [fórum oficial](https://github.com/vuejs-br/forum/issues/7) e faça sua sugestão
+
 ## Comunidade
 
 Já temos um grupo próprio do Vuetify em português no [Telegram](https://t.me/vuetifybr). Além deste grupo, temos toda uma [comunidade br](https://github.com/vuejs-br/comunidades) do Vue no qual você pode participar! 
