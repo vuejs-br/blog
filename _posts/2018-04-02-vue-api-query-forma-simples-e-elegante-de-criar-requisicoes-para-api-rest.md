@@ -6,26 +6,11 @@ tags: vue api query rest api nuxt
 author: robsontenorio
 ---
 
-<p align="center">
-  <img src="bird.png">  
-</p>
-<p align="center">
-  <a href="https://codecov.io/gh/robsontenorio/vue-api-query">
-      <img src="https://codecov.io/gh/robsontenorio/vue-api-query/branch/master/graph/badge.svg" />
-    </a>
-  <a href="https://www.npmjs.com/package/vue-api-query">
-    <img src="https://img.shields.io/npm/dt/vue-api-query.svg" />
-    </a>
-  <a href="https://www.npmjs.com/package/vue-api-query">
-    <img src="https://img.shields.io/npm/v/vue-api-query.svg" />
-  </a> 
-   <a href="https://github.com/robsontenorio/vue-api-query/blob/master/LICENSE">
-      <img src="https://img.shields.io/apm/l/vim-mode.svg" />
-    </a>     
-</p>
-
-
 # VUE API QUERY: Forma simples e elegante de criar requisições para API REST
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/robsontenorio/vue-api-query/master/bird.png" />  
+</p>
 
 Este pacote ajuda a construir rapidamente requisições para API REST. Mova sua lógica e requisições ao backend para classes dedicadas. Matenha seu código simples e elegante. 
 
