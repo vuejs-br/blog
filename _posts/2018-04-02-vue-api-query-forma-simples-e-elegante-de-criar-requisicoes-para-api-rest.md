@@ -16,6 +16,12 @@ Este pacote ajuda a construir rapidamente requisições para API REST. Mova sua 
 
 🔥  Se você usa Laravel como backend, este pacote combina perfeitamente com [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder).
 
+# Repositório oficial
+
+O conteúdo a seguir foi publicado como um artigo no site VUE JS BRASIL. Você deve acompanhar todas as futuras atualizações desta biblioteca diretamente no repositório oficial. 
+
+🔗 https://github.com/robsontenorio/vue-api-query
+
 
 # Uso básico
 
