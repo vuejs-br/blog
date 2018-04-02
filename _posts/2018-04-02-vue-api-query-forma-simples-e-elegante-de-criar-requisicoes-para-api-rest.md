@@ -19,7 +19,7 @@ Este pacote ajuda a construir rapidamente requisições para API REST. Mova sua 
 
 # Uso básico
 
-Devolva o resultado para um dado critédio, inclua algumas entidades, anexe alguns campos extras e ordene-o!
+Devolva o resultado para determinados critédios, inclua algumas entidades, acrescente alguns campos extras e ordene-o!
 ```js
 // GET /posts?filter[status]=ACTIVE&include=user,category&append=likes&orderBy=-created_at,category_id
 
@@ -89,7 +89,7 @@ let posts = await user
 
 ```
 
-# Installation
+# Instalação
 
 ```js
 yarn add vue-api-query
@@ -97,10 +97,10 @@ yarn add vue-api-query
 
 ## NUXT
 
-Create a plugin `~/plugins/vue-api-query.js`
+Crie um plugin `~/plugins/vue-api-query.js`
 
 ```js
-// inject global axios instance as http client to Model  
+// injete a instância global do axios como cliente http do Model
 
 import { Model } from 'vue-api-query'
 
@@ -109,7 +109,7 @@ export default function (ctx, injext) {
 }
 ```
 
-And register it on `nuxt.config.js`
+E registre-o em `nuxt.config.js`
 
 ```js
 plugins: [
@@ -120,7 +120,7 @@ plugins: [
 
 ## VUE
 
-Set up on `src/main.js`
+Configure em  `src/main.js`
 
 ```js
 [...]
@@ -128,7 +128,7 @@ Set up on `src/main.js`
 import axios from 'axios'
 import { Model } from 'vue-api-query'
 
-// inject global axios instance as http client to Model
+// injete a instância global do axios como cliente http do Model
 Model.$http = axios
 
 [...]
@@ -138,7 +138,7 @@ Model.$http = axios
 
 ## Defina um modelo base
 
-Seu modelo base deve estender de Model de `vue-api-query`. Usar modelos base é uma boa prática uma vez que as configurações dos seus modelos de domínios são abstraídas. 
+Seu modelo base deve estender da classe Model do pacote `vue-api-query`. Usar modelos base é uma boa prática uma vez que as configurações dos seus modelos de domínios são abstraídas. 
 
 **models/Model.js**
 
@@ -152,7 +152,7 @@ export default class Model extends BaseModel {
     return 'http://my-api.com'
   }
 
-  // implemente o método de request padro
+  // implemente o método de request padrão
   request (config) {
     return this.$http.request(config)
   }
@@ -192,7 +192,7 @@ export default class User extends Model {
 }
 ```
 
-Claro que você pode adicionar métodos extras e propriedades computadas como esta:
+Claro que você pode adicionar métodos extras e propriedades computadas desse jeito:
 
 ```js
 import Model from './Model'
@@ -228,7 +228,7 @@ export default class User extends Model {
 }
 ```
 
-Tudo bem se, em algumas situações, você precisar chamar um recurso personalizado de um modelo já definido. Você pode sobrescrever dinamicamente o recurso padrão que chama o método `custom ()`.
+Tudo bem se, em algumas situações, você precisar chamar um recurso personalizado de um modelo já definido. Você pode sobrescrever dinamicamente o recurso padrão chamando o método `custom ()`.
 
 ```js
 // GET /posts
@@ -415,7 +415,7 @@ let users = await User
         .orderBy('firstname')
         .page(1) 
         .limit(20)
-        .$get() // sometimes you will prefer $get()
+        .$get() // algumas vezes você vai preferiar usar $get()
 
 ```
 
@@ -525,7 +525,7 @@ let users  = data
 
 let users = await User
   .where('status', 'ACTIVE')
-  .$get() // <---- HERE
+  .$get() // <---- AQUI
 ```
 
 Isto **NÃO SERÁ** em uma array de modelos do tipo `User`.
