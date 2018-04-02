@@ -72,9 +72,9 @@ Agora vamos dar uma olhada no diretório `src`, que é onde temos todos os arqui
 
 - **components** Inicialmente adicionamos os componentes Vue neste diretório, o que não precisa ser um padrão. Em projetos muito grandes podemos dividir os componentes em diversos níveis. Neste projeto vamos continuar usando a estrutura simples, então qualquer componente `.vue` do projeto será adicionado neste diretório.
 
-E os arquivos:
-
 - **router** Este diretório possui apenas o arquivo `index.js` que contém as rotas de cada componente do projeto, já que o Vuetify usa o Vue Router.
+
+E os arquivos:
 
 - **App.vue** Este é o componente principal da aplicação. É ele que "desenha" todas as funcionalidades que vimos na execução do projeto. Os menus flutuantes, o cabeçalho, rodapé e corpo da aplicação. Daremos uma especial atenção a este arquivo em breve.
 
