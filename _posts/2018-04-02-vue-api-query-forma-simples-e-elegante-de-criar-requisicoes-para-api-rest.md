@@ -65,6 +65,14 @@ post.title = 'Awsome!'
 post.save()
 ```
 
+Ops, vamos apagar!
+
+```js
+// DELETE /posts/1
+
+post.delete()
+```
+
 Vamos criar um novo objeto e postá-lo:
 
 ```js
