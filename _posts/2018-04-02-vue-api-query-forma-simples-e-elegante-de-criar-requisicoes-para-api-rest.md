@@ -214,7 +214,8 @@ import Model from './Model'
 export default class User extends Model {
   
   // propriedades computadas são reativas -> user.fullname
-  get fullname()
+  // certifique-se de usar o prefixo "get"
+  get fullname()
   {
     return `${this.firstname} ${this.lastname}`
   }
@@ -432,6 +433,32 @@ let users = await User
         .$get() // algumas vezes você vai preferiar usar $get()
 
 ```
+
+# Dica legal
+
+Você pode construir algo como queries com escopo: 
+
+```js
+import Model from './Model'
+
+export default class Post extends Model {
+    
+   // certifique-se de declarar como um método estático
+   static active()  
+   {
+      // aqui você poderia encadear mais métodos de vue-query-api
+      return this.where('status', 'active')
+   }
+}
+```
+Então, você pode fazer isso:
+
+```js
+let activePosts = await Post
+  .active()
+  .get()
+```
+
 
 # Resposta do backend
 
