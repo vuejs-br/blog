@@ -28,7 +28,7 @@ Vamos usar o template **Webpack**, criando o projeto através do seguinte comand
 npx vue-cli init vuetifyjs/webpack vuetifyproject
 ```
 
-Responda as perguntas e aguarde todas as dependências serem instaladas. Após isso, acesse o diretório do projeto e execute `code .` para abrir o Visual Studio Code, e `npm run build` para executar o projeto no modo desenvolvedor. O navegador será aberto com o design do projeto semelhante a este:
+Responda as perguntas e aguarde todas as dependências serem instaladas. Após isso, acesse o diretório do projeto e execute `code .` para abrir o Visual Studio Code, e `npm run dev` para executar o projeto no modo desenvolvedor. O navegador será aberto com o design do projeto semelhante a este:
 
 <p align="center">
 <img src="https://i.imgur.com/GAJJzxz.png">
