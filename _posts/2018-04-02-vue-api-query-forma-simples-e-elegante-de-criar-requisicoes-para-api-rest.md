@@ -25,7 +25,7 @@ O conteúdo a seguir foi publicado como um artigo no site VUE JS BRASIL. Você d
 
 # Uso básico
 
-Devolva o resultado para determinados critédios, inclua algumas entidades, acrescente alguns campos extras e ordene-o!
+Devolva o resultado para determinados critérios, inclua algumas entidades, acrescente alguns campos extras e ordene-o!
 ```js
 // GET /posts?filter[status]=ACTIVE&include=user,category&append=likes&orderBy=-created_at,category_id
 
