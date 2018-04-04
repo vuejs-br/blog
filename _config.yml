@@ -142,12 +142,11 @@ authors:
         name: emanuelgdesouza
         email: emanuelgdesouza@gmail.com
         gravatar: d8a5a663020f14bc3030ee1ec1c5c6a7
-        cover: null
-        description: null
-        web: null
-        location: null
+        description: Go fast, go alone; go far, go together
+        web: https://emanuelgdev.com.br/
+        location: Duque de Caxias - RJ
         facebook: null
-        twitter: null
+        twitter: EmanuelGDev
         
     robsontenorio:	
         name: Robson Tenório
