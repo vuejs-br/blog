@@ -6,13 +6,11 @@ tags: vue api query rest api nuxt
 author: robsontenorio
 ---
 
-# VUE API QUERY: Forma simples e elegante de criar requisições para API REST
+Este pacote ajuda a construir rapidamente requisições para API REST. Mova sua lógica e requisições ao backend para classes dedicadas. Matenha seu código simples e elegante.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/robsontenorio/vue-api-query/master/bird.png" />  
 </p>
-
-Este pacote ajuda a construir rapidamente requisições para API REST. Mova sua lógica e requisições ao backend para classes dedicadas. Matenha seu código simples e elegante. 
 
 🔥  Se você usa Laravel como backend, este pacote combina perfeitamente com [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder).
 
