@@ -36,7 +36,7 @@ O que irei abordar a partir daqui, são os conceitos acima, com exemplos da apli
 
 ## Estado Local
 
-Pense em um estado local como o estado dentro de um escopo de um componente Vuejs. Entende-se como componente uma instância do Vue.js. Se você estiver trabalhando com *[Single File Components](https://medium.com/emanuelg-blog/descomplicando-os-single-file-components-do-vue-js-2df16724baab)*, cada arquivo ***.vue** será um componente. Para uma explicação mais detalhada, [consulte a documentação do Vuejs](https://vuejs.org/v2/guide/components.html).
+Pense em um estado local como o estado dentro de um escopo de um componente Vuejs. Entende-se como componente uma instância do Vue.js. Se você estiver trabalhando com *[Single File Components](https://medium.com/emanuelg-blog/descomplicando-os-single-file-components-do-vue-js-2df16724baab)*, cada arquivo **.vue** será um componente. Para uma explicação mais detalhada, [consulte a documentação do Vuejs](https://vuejs.org/v2/guide/components.html).
 
 ### Data
 
