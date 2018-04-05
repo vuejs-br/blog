@@ -14,7 +14,6 @@ Nesta segunda parte do nosso artigo sobre Vuetify estaremos analisando o compone
 <!-- TOC -->
 
 - [Sumário](#sumário)
-- [Comunidade](#comunidade)
 - [Analisando o App.vue](#analisando-o-appvue)
 - [VApp](#vapp)
 - [VNavigationDrawer](#vnavigationdrawer)
@@ -33,9 +32,7 @@ Nesta segunda parte do nosso artigo sobre Vuetify estaremos analisando o compone
 
  > **Eba!** Toda segunda tem artigo sobre Vue no site Vuejs Brasil. Quer sugerir um tema? Acesse nosso [fórum oficial](https://github.com/vuejs-br/forum/issues/7) e faça sua sugestão
 
-## Comunidade
-
-Já temos um grupo próprio do Vuetify em português no [Telegram](https://t.me/vuetifybr). Além deste grupo, temos toda uma [comunidade br](https://github.com/vuejs-br/comunidades) do Vue no qual você pode participar! 
+> **Comunidade** Já temos um grupo próprio do Vuetify em português no [Telegram](https://t.me/vuetifybr). Além deste grupo, temos toda uma [comunidade br](https://github.com/vuejs-br/comunidades) do Vue no qual você pode participar! 
 
 ## Analisando o App.vue
 
