@@ -5,6 +5,9 @@ meta_description: Artigos em Português sobre Vue.js
 warning: true
 warning_message: "Estamos em processo de migração. <br/> Algumas coisas podem não funcionar"
 
+info: true
+info_message: 'Conheça as <a href="https://github.com/vuejs-br/comunidades" target="_blank">comunidades</a> que fazem parte do ecossistema Vuejs no Brasil'
+
 permalink: /:title/
 markdown: kramdown
 highlighter: 'rouge'
