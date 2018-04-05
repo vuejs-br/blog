@@ -42,7 +42,7 @@ Pense em um estado local como o estado dentro de um escopo de um componente Vuej
 
 *Data* é uma propriedade do componente que vai trabalhar com o estado inicial da sua aplicação. Os atributos em *data* poderão ser modificados e assistidos. Para um exemplo de uso, dé uma olhada no código abaixo:
 
-```vue
+```js
 export default {
   name: 'PageIndex',
   data: () => ({
@@ -60,7 +60,7 @@ Para uma olhada mais detalhada, [confira a documentação](https://vuejs.org/v2/
 
 Para uma demostração do exemplo acima, olhe este método do meu componente:
 
-```vue
+```js
 methods: {
   getApiInformations () {
     const cep = this.cep
@@ -86,7 +86,7 @@ Mas e se o usuário tentar clicar em pesquisar sem ter digitado um CEP válido? 
 
 ### Computed
 
-```vue
+```js
 computed: {
   isCepValid () {
     return size(this.cep) === 8
