@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pensando em estados com Vuejs'
-date: 2018-04-04 19:00:00 
+date: 2018-04-05 19:00:00 
 tags: estados
 author: emanuelgdesouza
 ---
