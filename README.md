@@ -15,4 +15,5 @@ O que está faltando:
 - [ ] Importar as imagens de capa de artigo
 - [x] Configurar os autores de cada artigo
 - [ ] Configurar as tags e criar uma página de tags
+- [ ] Criar no index.html uma forma de exibir os posts fixos
 
