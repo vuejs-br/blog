@@ -25,8 +25,9 @@ Nesta segunda parte do nosso artigo sobre Vuetify estaremos analisando o compone
     - [Propriedade enable-resize-watcher (deprecidada)](#propriedade-enable-resize-watcher-deprecidada)
     - [Propriedade fixed](#propriedade-fixed)
     - [Propriedade app](#propriedade-app)
-- [Outras propriedades importantes](#outras-propriedades-importantes)
-- [Configurando o menu](#configurando-o-menu)
+    - [Outras propriedades importantes](#outras-propriedades-importantes)
+    - [Configurando o menu](#configurando-o-menu)
+- [Criando a integração com o Vue Router](#criando-a-integração-com-o-vue-router)
 
 <!-- /TOC -->
 
@@ -135,7 +136,7 @@ Esta propriedade determina se a posição do elemento (neste caso o *Navigation 
 
 Esta propriedade determina que o *Navigation Drawer* é pertencente ao *v-app*. Sem ela, o menu nao esta pertencente a aplicação como um todo. Isso ocorre porque podemos criar um   *Navigation Drawer* que é pertencente a algum menu interno e que é de uma tela qualquer, e não da app. 
 
-## Outras propriedades importantes
+### Outras propriedades importantes
 
 - **dark** Usa o tema "dark", que pode ser combinado com o dark de outros componentes.
 - **height** A altura do componente, cujo padrão é '100%'
@@ -147,5 +148,115 @@ Esta propriedade determina que o *Navigation Drawer* é pertencente ao *v-app*. 
 - **touchless** Desabilita os eventos touch do dispositivo mobile, como o arrastar para a direta fazendo a o componente surgir na tela
 - **value** Controla a visibilidade do componente
 
-## Configurando o menu
+### Configurando o menu
+
+O menu interno ao *Navigation Drawer* pode ser configurado de diferentes formas. Neste caso específico, temos:
+
+```html
+<v-navigation-drawer>
+  <v-list>
+    <v-list-tile
+      value="true"
+      v-for="(item, i) in items"
+      :key="i"
+    >
+      <v-list-tile-action>
+        <v-icon v-html="item.icon"></v-icon>
+      </v-list-tile-action>
+      <v-list-tile-content>
+        <v-list-tile-title v-text="item.title"></v-list-tile-title>
+      </v-list-tile-content>
+    </v-list-tile>
+  </v-list>
+</v-navigation-drawer>
+```
+
+Temos então um `VList` em conjunto com um `VListTile`, e neste temos o `v-for` do Vue iterando em uma lista chamada `items`. Esta lista é criada no `this.data`, veja:
+
+```html
+<script>
+export default {
+  data () {
+    return {
+      clipped: false,
+      drawer: true,
+      fixed: false,
+      items: [{
+        icon: 'bubble_chart',
+        title: 'Inspire'
+      }],
+      miniVariant: false,
+      right: true,
+      rightDrawer: false,
+      title: 'Vuetify.js'
+    }
+  },
+  name: 'App'
+}
+</script>
+```
+
+A princípio temos apenas um item, chamado de "Inspire". No componente, após o uso do `v-for`, temos um `v-list-tile-action` e um `v-list-tile-content` ambos usando os dados da lista de `items`. 
+
+## Criando a integração com o Vue Router
+
+Até o momento temos apenas uum item no VueRouter, definido no arquivo `src/router/index.js`:
+
+```js
+export default new Router({
+  routes: [
+    {
+      path: '/',
+      name: 'HelloWorld',
+      component: HelloWorld
+    }
+  ]
+})
+```
+
+E precisamos adicionar no menu da direita um link para essa rota. Primeiro, devemos alterar o `v-list-tile` do *Navigation Drawer* adicionando a propriedade `to`, da seguinte forma:
+
+```html
+ <v-list-tile
+          value="true"
+          v-for="(item, i) in items"
+          :key="i"
+          :to="item.to"
+        >
+```
+
+A propriedade `to`, nativa do `v-list-tile`, integra-se ao Vue Router e ao `<router-link>`, provendo assim o acesso ao roteamento do Vue. Para finalizar, altere a lista de itens para:
+
+```js
+...
+items: [{
+  icon: 'bubble_chart',
+  title: 'Hello World',
+  to: '/'
+}],
+...
+```
+
+Perceba que adicionamos no item a propriedade `to`, que trabalha em conjunto com o `<v-list-tile>`. Agora, se adicionarmos mais um item, por exemplo:
+
+```js
+ items: [{
+        icon: 'bubble_chart',
+        title: 'Hello World',
+        to: '/'
+      },
+      {
+        icon: 'vpn_key',
+        title: 'Login',
+        to: '/login'
+      } ],
+```
+
+Temos o seguinte resultado:
+
+<p align="center">
+<img src="https://i.imgur.com/dReqHYn.png">
+</p>
+
+Claro que, ao clicar neste item, nenhuma página será carregada.
 
