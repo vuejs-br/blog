@@ -2,7 +2,7 @@
 
 # Blog Vuejs-Brasil
 
-Este é o site do Blog vuejs-brasil.com.br. Qualquer pessoa pode contribuir com o nosso Blog! É fácil, bastando apenas alguns conhecimentos sobre Git e Markdown. 
+Este é o site do Blog vuejs-brasil.com.br. Qualquer pessoa pode contribuir com o nosso Blog! É fácil, bastando apenas alguns conhecimentos sobre Git e Markdown. Para saber mais sobre como criar um post para o nosso site, [clique aqui](http://vuejs-brasil.com.br/como-publicar-no-blog-vuejs-brasil/)
 
 
 ## Notas de migração
