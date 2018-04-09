@@ -6,29 +6,7 @@ tags: componentes vuetify css
 author: daniel-schmitz
 ---
 
-Nesta segunda parte do nosso artigo sobre Vuetify estaremos analisando o componente `App.vue`, que contém alguns componentes do Vuetify que compõem a aplicação.
-
-
-## Sumário 
-
-<!-- TOC -->
-
-- [Sumário](#sumário)
-- [Analisando o App.vue](#analisando-o-appvue)
-- [VApp](#vapp)
-- [VNavigationDrawer](#vnavigationdrawer)
-    - [Propriedade Persistent](#propriedade-persistent)
-    - [Propriedade MiniVariant](#propriedade-minivariant)
-    - [Propriedade clipped](#propriedade-clipped)
-    - [Propriedade v-model](#propriedade-v-model)
-    - [Propriedade enable-resize-watcher (deprecidada)](#propriedade-enable-resize-watcher-deprecidada)
-    - [Propriedade fixed](#propriedade-fixed)
-    - [Propriedade app](#propriedade-app)
-    - [Outras propriedades importantes](#outras-propriedades-importantes)
-    - [Configurando o menu](#configurando-o-menu)
-- [Criando a integração com o Vue Router](#criando-a-integração-com-o-vue-router)
-
-<!-- /TOC -->
+Nesta segunda parte do nosso artigo sobre Vuetify estaremos analisando o componente `App.vue`, mais precisamente o componente VNavigationDrawer.
 
  > **Eba!** Toda segunda tem artigo sobre Vue no site Vuejs Brasil. Quer sugerir um tema? Acesse nosso [fórum oficial](https://github.com/vuejs-br/forum/issues/7) e faça sua sugestão
 
