@@ -63,7 +63,7 @@ Na aplicação, temos o Navigation Drawer definido da seguinte forma:
 
 ### Propriedade Persistent
 
-A propriedade `persistent` exibe a forma como ele se comporta quando a página é carregada. Se for `persistent`, o componente será exibido assim que a página é carregada (exceto se estiver e um dispositivo mobile). Caso não queria esse comportamento, deixando o componente invisível no carregamento da página, altere de `persistent` para `temporary`
+A propriedade `persistent` define a forma como ela se comporta quando a página é carregada. Se for `persistent`, o componente será exibido assim que a página é carregada (exceto se estiver e um dispositivo mobile). Caso não queria esse comportamento, deixando o componente invisível no carregamento da página, altere de `persistent` para `temporary`
 
 ### Propriedade MiniVariant
 
