@@ -233,5 +233,5 @@ Temos o seguinte resultado:
 <img src="https://i.imgur.com/dReqHYn.png">
 </p>
 
-Claro que, ao clicar neste item, nenhuma página será carregada.
+Claro que, ao clicar neste item, nenhuma página será carregada, pois o componente ainda não foi criado. No próximo artigo conheceremos mais sobre outro importante componente, o VToolbar. Até lá!
 
