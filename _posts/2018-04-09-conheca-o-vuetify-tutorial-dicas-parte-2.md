@@ -2,7 +2,7 @@
 layout: post
 title: 'Conheça o Vuetify - parte 2'
 date: 2018-04-09 08:00:00 
-tags: componentes vuetify css 
+tags: componentes vuetify css navigation menu router  
 author: daniel-schmitz
 ---
 
