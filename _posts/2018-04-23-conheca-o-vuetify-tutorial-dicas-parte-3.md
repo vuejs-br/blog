@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conheça o Vuetify - parte 3'
-date: 2018-04-15 08:00:00 
+date: 2018-04-23 08:00:00 
 tags: componentes vuetify css tollbar  
 author: daniel-schmitz
 ---
