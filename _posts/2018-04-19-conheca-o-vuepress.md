@@ -270,7 +270,6 @@ Desta forma, o conteúdo estático gerado será copiado para o branch `gh-pages`
 O Netlify é um serviço web que fica "escutando" o seu repositório github e, quando existe alguma modificação nele, como um push ou merge, o serviço pode executar algum comando node.
 
 
-
 ## Próximos passos
 
 Ainda existem muitos detalhes para serem absorvidos. Se você gostou do que viu até o momento, então é hora de ir até o [VuePress](https://vuepress.vuejs.org/guide/) e ler a documentação, que aliás foi criada usando Vuepress ;)
