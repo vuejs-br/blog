@@ -154,7 +154,7 @@ footer: Copyright © 2018-present Evan You
 ---
 ```
 
-A chave `home: true` indica ao Vuepress para criar uma página de engtrada. Configuramos uma imagem, um texto para ir para uma outra página, além de 3 blocos com textos e um rodapé. Ao salvar o arquivo README, o site é refeito (se a opção `vuepress dev` estiver ativa), exibindo algo como:
+A chave `home: true` indica ao Vuepress para criar uma página de entrada. Configuramos uma imagem, um texto para ir para uma outra página, além de 3 blocos com textos e um rodapé. Ao salvar o arquivo README, o site é refeito (se a opção `vuepress dev` estiver ativa), exibindo algo como:
 
 <p align="center">
 <img src="https://i.imgur.com/BSXknRm.png">
@@ -253,7 +253,26 @@ A linha 4 será marcada, conforme a imagem a seguir:
 <img src="https://i.imgur.com/Hxa0v3M.png">
 </p>
 
+## VuePress e Github Pages
+
+Exportar o seu projeto VuePress para o GitHub Pages é fácil com uma biblioteca node adicional, chamada `push-dir`. Após concluir o seu site usando VuePress, você deverá executar o comando `vuepress build .` para gerar o site estático no diretório `.vuepress/dist`. Então, após esta etapa, faça:
+
+```bash
+npx push-dir --dir=.vuepress/dist branch=gh-pages --cleanup --allow-unclean
+```
+
+Desta forma, o conteúdo estático gerado será copiado para o branch `gh-pages` do github, que poderá ser exibido como um site através de uma url. Para mais detalhes, leia este [artigo](http://vuejs-brasil.com.br/exporte-seu-projeto-vue-para-o-github-pages/).
+
+> Lembre-se que no github pages a url do projeto é no seguinte formato: https://<usuario>.github.io/<projeto>/, então é preciso dizer ao VuePress que  site está sendo visualizado dentro do diretório /<projeto>/. Isso é feito no .vuepress/config.js utilizando a propriedade `base`. 
+
+## VuePress e Netlify
+
+O Netlify é um serviço web que fica "escutando" o seu repositório github e, quando existe alguma modificação nele, como um push ou merge, o serviço pode executar algum comando node.
+
+
 ## Próximos passos
 
 Ainda existem muitos detalhes para serem absorvidos. Se você gostou do que viu até o momento, então é hora de ir até o [VuePress](https://vuepress.vuejs.org/guide/) e ler a documentação, que aliás foi criada usando Vuepress ;)
+
+
 
