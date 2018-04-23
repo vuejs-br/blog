@@ -1,14 +1,12 @@
 ---
 layout: post
 title: 'Conheça o Vuetify - parte 3'
-date: 2018-04-15 08:00:00 
+date: 2018-04-23 08:00:00 
 tags: componentes vuetify css tollbar  
 author: daniel-schmitz
 ---
 
 Esta é a terceira parte do nosso tutorial sobre o Vuetify. Neste artigo conheceremos melhor o Toolbar e a sua importância para a aplicação como um todo. 
-
- > **Eba!** Toda segunda tem artigo sobre Vue no site Vuejs Brasil. Quer sugerir um tema? Acesse nosso [fórum oficial](https://github.com/vuejs-br/forum/issues/7) e faça sua sugestão
 
 Toda aplicação necessita de uma barra de títulos e essa é uma das tarefas do toolbar, exibir um título. Além disso, também é possível adicionar botões e caixas de texto para realizar buscas.
 
