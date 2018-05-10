@@ -11,9 +11,6 @@ author: daniel-schmitz
 
 Você já deve ter lido que o [Vuex](https://vuex.vuejs.org/en/) é a melhor forma de manter o estado global de uma aplicação em Vue. E realmente é. É vital que você compreenda o Vuex e sua filosofia [Flux](https://facebook.github.io/flux/docs/overview.html) para poder criar aplicações poderosas e com um excelente gerenciamento de estado, inclusive pelo Vue DevTools.
 
-
-> **Eba!** Toda segunda tem artigo sobre Vue no site vuejs-brasil.com. Quer sugerir um tema? Acesse nosso [fórum oficial](https://github.com/vuejs-br/forum/issues/7) e faça sua sugestão
-
 Mas dominar o Vuex não é, necessariamente, motivo para usá-lo em todos os seus projetos. Por exemplo, se você está apenas criando um protótipo, ou se você quer gerenciar apenas algumas variáveis globais na app, ou até mesmo se você ainda não compreendeu o Vuex e quer partir para algo mais simples, podemos dizer que existem soluções para isso
 
 ## Proposta deste artigo

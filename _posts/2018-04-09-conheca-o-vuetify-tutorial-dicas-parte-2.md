@@ -8,8 +8,6 @@ author: daniel-schmitz
 
 Nesta segunda parte do nosso artigo sobre Vuetify estaremos analisando o componente `App.vue`, mais precisamente o componente VNavigationDrawer.
 
- > **Eba!** Toda segunda tem artigo sobre Vue no site Vuejs Brasil. Quer sugerir um tema? Acesse nosso [fórum oficial](https://github.com/vuejs-br/forum/issues/7) e faça sua sugestão
-
 > **Comunidade** Já temos um grupo próprio do Vuetify em português no [Telegram](https://t.me/vuetifybr). Além deste grupo, temos toda uma [comunidade br](https://github.com/vuejs-br/comunidades) do Vue no qual você pode participar! 
 
 ## Analisando o App.vue

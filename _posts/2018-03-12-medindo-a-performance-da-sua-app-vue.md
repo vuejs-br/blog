@@ -11,8 +11,6 @@ author: daniel-schmitz
 
 Neste artigo iremos utilizar uma extensão para o Chrome/Firefox com o objetivo de medir a performance da sua aplicação Vue.
 
-> **Eba!** Toda segunda tem artigo sobre Vue no site vuejs-brasil.com. Quer sugerir um tema? Acesse nosso [fórum oficial](https://github.com/vuejs-br/forum/issues/7) e faça sua sugestão
-
 Em termos técnicos, a extensão irá medir estaticamente o desempenho dos componentes Vue baseado na métrica utilizada pela api do `window.performance`.
 
 ## Instalação

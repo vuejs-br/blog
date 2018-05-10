@@ -8,8 +8,6 @@ author: daniel-schmitz
 
 Na semana passada Evan You, o criador do Vue, [anunciou](https://twitter.com/youyuxi/status/984918079598710784) uma nova ferramenta chamada Vuepress. Neste artigo vamos aprender tudo o que é necessário saber sobre ela.
 
- > **Eba!** Toda segunda tem artigo sobre Vue no site Vuejs Brasil. Quer sugerir um tema? Acesse nosso [fórum oficial](https://github.com/vuejs-br/forum/issues/7) e faça sua sugestão
-
  <p align="center">
  <img src="https://pbs.twimg.com/media/DamKGD5WkAEGEz0.png:large">
  </p>

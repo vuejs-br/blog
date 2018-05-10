@@ -11,8 +11,6 @@ author: daniel-schmitz
 
 Para quem não conhece o ESLint, podemos resumi-lo como um utilitário para o Javascript responsável em avaliar algumas, ou até dezenas, regras de formatação do seu código.
 
- > **Eba!** Toda segunda tem artigo sobre Vue no site Vuejs Brasil. Quer sugerir um tema? Acesse nosso [fórum oficial](https://github.com/vuejs-br/forum/issues/7) e faça sua sugestão
-
 Através deste utilitário é possível saber se estamos utilizando a formatação correta para o projeto, se as chaves estão no lugar certo, se exite ou não um ponto-e-vírgula no final da linha, se existe um *import* não utilizado, dentre outras.
 
 Para que o ESLint funcione adequadamente, é necessário além de possuir alguns pacotes instalados, uma certa configuração dizendo o que é certo e o que é errado, contendo exceções, entre outras configurações. 
