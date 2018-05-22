@@ -55,7 +55,7 @@ authors:
         gravatar: b2da8fcc6cfdaf3bbe1f17aa9fabde39
         description: Daniel Schmitz é autor de vários livros sobre programação e desenvolvimento de sistemas.
         web: http://www.danielschmitz.com.br
-        location: Juiz de Fora - MG 
+        location: Juiz de Fora - MG
         facebook: null
         twitter: daniel_schmitz
         accessibility: null
@@ -79,14 +79,14 @@ authors:
     halfeld:
         name: Igor Luíz
         email: igor@devstacks.com.br
-        gravatar: 
+        gravatar:
         cover: /content/images/2016/09/banner.png
         description: Desenvolvedor Full Stack apesar de que a criança interior ainda permanece no front curte muito javascript compartilhar os paranauês que sabe e contribuir com software livre :D
         web: http://igorluiz.me/
         location: São Paulo Brasil
         facebook: null
         twitter: null
-      
+
     vinicius:
         name: Vinicius Reis
         email: luiz.vinicius73@gmail.com
@@ -97,7 +97,7 @@ authors:
         location: Rio de Janeiro
         facebook: LuizVinicius73
         twitter: LuizVinicius73
-       
+
     jjsquad:
         name: Jorge Gonçalves Junior
         email: jorge.techinfo@gmail.com
@@ -108,18 +108,18 @@ authors:
         location: Alvorada RS
         facebook: null
         twitter: null
-     
+
     pablohpsilva:
         name: Pablo Henrique Penha Silva
         email: pablohpsilva@gmail.com
-        gravatar: 
-        cover: 
+        gravatar:
+        cover:
         description: null
         web: https://medium.com/@pablohpsilva
         location: Uberlândia Brasil
         facebook: pablohpenhasilva
         twitter: PabloHPSilva
-   
+
     gilvaju:
         name: Gilvan Júnior
         email: vue@gilvancosta.com
@@ -130,18 +130,18 @@ authors:
         location: null
         facebook: null
         twitter: null
-  
+
     leonardovilarinho:
         name: Leonardo Vilarinho
         email: leonardo-i@outlook.com
         gravatar: a1ced4f6d3ce0ab5ea7d1790287a6ed7
-        description: Autor do livro 'Front-end com Vue.js' pela Casa do Código  
+        description: Autor do livro 'Front-end com Vue.js' pela Casa do Código
         web: https://github.com/leonardovilarinho
         location: Ituiutaba - MG
         facebook: l.vilarinh
         twitter: leonardovdev
-  
-    emanuelgdesouza:	
+
+    emanuelgdesouza:
         name: emanuelgdesouza
         email: emanuelgdesouza@gmail.com
         gravatar: d8a5a663020f14bc3030ee1ec1c5c6a7
@@ -150,8 +150,8 @@ authors:
         location: Duque de Caxias - RJ
         facebook: null
         twitter: EmanuelGDev
-        
-    robsontenorio:	
+
+    robsontenorio:
         name: Robson Tenório
         email: rrtenorio@gmail.com
         gravatar: b010a195a8d015612293f8a69d1b9c63
@@ -161,4 +161,15 @@ authors:
         location: Brasíla, Brazil
         facebook: null
         twitter: robsontenorio
-  
+
+    wilcorrea:
+        name: William Correa
+        email: wilcorrea@gmail.com
+        gravatar: //www.gravatar.com/avatar/3be9dea8668cb169e52f024a7a9cffb8?s=250&d=mm&r=x
+        cover: null
+        description: Tem algumas coisas que a gente sabe que vão acontecer, estas são as que acontecem por acaso. Todo o resto é o que compõe a certeza.\n
+        web: https://wilcorrea.rocks/
+        location: Ubá, Minas Gerais
+        facebook: wilcorrea.rocks
+        twitter: wilcorrea
+
