@@ -3,3 +3,4 @@ _site
 node_modules
 .sass-cache
 CNAME
+/.idea
