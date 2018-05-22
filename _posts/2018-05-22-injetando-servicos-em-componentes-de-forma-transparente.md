@@ -360,7 +360,7 @@ export default new Router({
 O _**Vue**_ é muito flexível e deixa à cargo da sua capacidade de manipulação do Javascript a criação do ecossistema em que o componente está inserido. Tenha sempre cuidado para escolher abordagens que te permitam escalar a sua aplicação de forma mais objetiva possível pesquisando e estudando o máximo que puder antes de começar a escrever seus códigos.
 Ademais, você pode começar a fazer uso dessas metodologias para fazer seus _requests_ sem que seu componente perceba que algo mudou.
 
-> Isolar o comportamento dos serviços é uma boa pedida em tempos onde estão surgindo opções interessantes para manipulação de dados, como o GrapQL.
+> Isolar o comportamento dos serviços é uma boa pedida em tempos onde estão surgindo opções interessantes para manipulação de dados, como o [GraphQL](https://graphql.org).
 
 Fique à vontade para enviar suas dúvidas, sugestões e/ou elogios. Para falar mais sobre _**VueJS**_ fique ligado na comunidade e em todo o seu ecossistema : )
 
