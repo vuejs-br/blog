@@ -20,7 +20,7 @@ Precisávamos de estruturas que fossem criadas rapidamente e que fossem simples 
 
 ## Serviços
 
-Nos contextos de arquitetura de software o termo serviço refere-se a uma funcionalidade ou um conjunto de funcionalidades de software com um propósito que pode ser reutilizado em diferentes ocasiões. Geralmente associamos os acessos à recursos HTTP ao nome Service, mas sem sempre usamos uma estrutura dedicada à isso para cada domínio da nossa aplicação, o que, particularmente se tornou um problema.
+Nos contextos de arquitetura de software o termo serviço refere-se a uma funcionalidade ou um conjunto de funcionalidades de software com um propósito que pode ser reutilizado em diferentes ocasiões. Geralmente associamos os acessos à recursos HTTP ao nome Service, mas nem sempre usamos uma estrutura dedicada à isso para cada domínio da nossa aplicação, o que, particularmente se tornou um problema.
 
 > Devemos ter cuidado ao usar recursos como `this.$http.get('/api/v1/products')` dentro da nossa aplicação, pois estamos pulverizando uma camada lógica importante por toda a aplicação.
 
