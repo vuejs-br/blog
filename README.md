@@ -1,10 +1,12 @@
-
-
 # Blog Vuejs-Brasil
 
+<img align="left" src="assets/images/logo.png" width="100">
+  
 Este é o site do Blog vuejs-brasil.com.br. Qualquer pessoa pode contribuir com o nosso Blog! É fácil, bastando apenas alguns conhecimentos sobre Git e Markdown. 
 
 > Para saber mais sobre como criar um post para o nosso site, [clique aqui](http://vuejs-brasil.com.br/como-publicar-no-blog-vuejs-brasil/)
+
+Logotipo By [@wilcorrea](https://twitter.com/@wilcorrea)
 
 
 ## Notas de migração
