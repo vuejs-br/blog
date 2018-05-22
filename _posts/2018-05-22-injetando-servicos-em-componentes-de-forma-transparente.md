@@ -257,7 +257,7 @@ export default {
 </script>
 ```
 
-E teríamos uma modificação na instância do **_Vue_** através do **src/service/Plugin.js**:
+E teríamos uma modificação no protótipo do **_Vue_** através do **src/service/Plugin.js**:
 ```javascript
 export default Vue => {
   Object.defineProperty(Vue.prototype, '$service', {
