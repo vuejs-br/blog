@@ -26,14 +26,10 @@
     {% if page.url %}
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
     {% endif %}
-    {% if page.date %}
-      <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-      <meta content="{{ site.url }}/about/" property="article:author">
-    {% endif %}
     {% if page.image %}
-      <meta content="/img/srcset/{{ page.image }}" property="og:image">
+      <meta content="{{ site.baseurl }}/{{ page.image }}" property="og:image">
     {% else %}
-      <meta content="/img/logo-high-resolution.png" property="og:image">
+      <meta content="{{ site.baseurl }}/assets/images/logo.png" property="og:image">
     {% endif %}
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
