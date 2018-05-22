@@ -180,7 +180,7 @@ A saída exibida nesse caso é algo parecida com a imagem abaixo.
 
 Com o que fora apresentado até aqui não é difícil perceber que podemos usar essa estrutura para representar diversas estratégias de API’s porque não está fechado o que o nosso serviço consome. Essa deve ser a visão do componente acerca do service: conhecer o contrato e não a implementação.
 
-> Embora o Javascript não tenha estruturas formais para contratos, é possível criar padrões para que a codificação componha esses contratos de forma orgânica 
+> Embora o Javascript não tenha estruturas formais para contratos, é possível criar padrões para que a codificação componha esses contratos de forma orgânica.
 
 Se quiser se aprofundar em abordagens de gestão de _services_ pode dar uma olhada no artigo [How not to suffer with APIs](https://itnext.io/how-not-to-suffer-with-apis-8aa75f890fe6) (dica que recebi do [Vinicius Reis](https://medium.com/@luizvinicius73)) onde é explorado em níveis bem profundos o uso do serviço como um modelo da entidade totalmente isolado da apresentação do componente.
 
