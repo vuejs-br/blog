@@ -1,5 +1,7 @@
+/.idea
 .DS_Store
-_site
-node_modules
-.sass-cache
-CNAME
+/_site
+/node_modules
+/*cache
+/CNAME
+/.jekyll-metadata

@@ -93,7 +93,7 @@ O próximo botão controla a funcionalidade chamada `clipped`, vista no [artigo 
 
 ## Exemplo integrando Toolbar e Tabs
 
-Neste exemplo temos o uso do ToolBar com abas. Para que esta combinaão seja possível, deve-se criar adicionar as abas no slot *extension* da Toolbar.
+Neste exemplo temos o uso do ToolBar com abas. Para que esta combinação seja possível, deve-se criar adicionar as abas no slot *extension* da Toolbar.
 
 <p data-height="265" data-theme-id="dark" data-slug-hash="pVJwRw" data-default-tab="html,result" data-user="danielschmitz" data-embed-version="2" data-pen-title="Vuetify Example Pen" class="codepen">See the Pen <a href="https://codepen.io/danielschmitz/pen/pVJwRw/">Vuetify Example Pen</a> by Daniel Schmitz (<a href="https://codepen.io/danielschmitz">@danielschmitz</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
