@@ -39,8 +39,8 @@ Para poder seguir com este material apresentaremos uma solução simples para cr
 /src
  |
  ├── /domains/
- |   └── /product
- |        └── /service
+ |   └── /Product
+ |        └── /Service
  |             └── Product.js
  |
  ├── /service
