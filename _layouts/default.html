@@ -15,6 +15,7 @@
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
     <!-- Customisation  -->
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css" />
+    <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png?d3183g47" type="image/png">
 
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
@@ -22,14 +23,14 @@
     {{ content }}
     <footer class="site-footer clearfix">
       <section class="copyright">
-        <a href="{{ site.baseurl }}">{{ site.name }}</a> &copy; 
+        <a href="{{ site.baseurl }}">{{ site.name }}</a> &copy;
               {{"now" | date: "%Y"}} &bull; All rights reserved.
       </section>
-      <section class="poweredby">Made with Jekyll using 
+      <section class="poweredby">Made with Jekyll using
         <a href="http://github.com/rosario/kasper">Kasper theme</a>
       </section>
     </footer>
-    
+
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery-1.11.1.min.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/index.js"></script>
@@ -47,6 +48,6 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
 
-    </script>   
+    </script>
 </body>
 </html>
