@@ -551,18 +551,20 @@ margin on the iframe, cause it breaks stuff. */
 
 /* Appears in the top right corner of your home page */
 .blog-logo {
-    display: block;
-    float: left;
+    margin: auto;
+    width: 50%;
     background: none !important;
     border: none !important;
 }
 
 .blog-logo img {
+    margin: auto;
+    width: 50%;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    height: 38px;
+    height: 100px;
     padding: 1px 0 5px 0;
     width: auto;
 }

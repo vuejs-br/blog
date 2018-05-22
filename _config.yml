@@ -12,11 +12,14 @@ permalink: /:title/
 markdown: kramdown
 highlighter: 'rouge'
 logo: true
+logoUrl: '/assets/images/logo.png'
 paginate: 15
 baseurl: /
 domain_name: 'http://www.vuejs-brasil.com.br/'
 google_analytics: 'UA-79980005-1'
 plugins: [jekyll-paginate]
+
+
 
 authors:
     vedovelli:

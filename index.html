@@ -7,9 +7,9 @@ about: 'about.html'
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
     <nav class="main-nav overlay clearfix">
-            {% if page.logo %}
+            {% if site.logo %}
                 <a class="blog-logo" href="{{ site.baseurl }}">
-                    <img src="{{ page.logo }}" alt="Blog Logo" />
+                    <img src="{{ site.baseurl }}{{ site.logoUrl }}"/>
                 </a>
             {% endif %}
         <!--<a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>-->
