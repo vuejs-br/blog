@@ -331,8 +331,7 @@ Durante a construção de app’s mais robustos geralmente usamos um _router_. O
 
 No caso do nosso exemplo, vamos explorar o [Function Mode](https://router.vuejs.org/en/essentials/passing-props.html#function-mode) onde as _props_ serão geradas por uma função que recebe a rota que carregada como parâmetro. Com o _service_ sendo uma _prop_ poderemos passá-lo por parâmetro através da rota onde seu componente será montado.
 
-Como podemos ver no exemplo abaixo, será possível combinar as duas abordagens no seu projeto.
-Será possível usar um mesmo componente recebendo _props_ via _$options_, _template_, _render_ ou através da _route_ porque o acesso ao _**$service**_ será transparente para o componente.
+Como podemos ver no exemplo abaixo, será possível combinar as duas abordagens no seu projeto. Poderemos usar um mesmo componente recebendo _props_ via _$options_, _template_, _render_ ou através da _route_ porque o acesso ao _**$service**_ será transparente para o componente.
 
 ```javascript
 import Vue from 'vue'
@@ -367,4 +366,4 @@ Fique à vontade para enviar suas dúvidas, sugestões e/ou elogios. Para falar 
 
 [VueJS Comunidades](https://github.com/vuejs-br/comunidades/blob/master/README.md)
 
-Ah, já ia esquecendo, segue o link do repositório [https://github.com/wilcorrea/transparent-services.git](https://github.com/wilcorrea/transparent-services.git), fica a dica para seguir os commits que será possível ver a evolução da mesma forma que a estrutura foi evoluindo nos artigos.
+Ah, já ia esquecendo, segue o link do repositório [https://github.com/wilcorrea/transparent-services](https://github.com/wilcorrea/transparent-services), fica a dica para seguir os commits que será possível ver a evolução da mesma forma que a estrutura foi evoluindo nos artigos.
