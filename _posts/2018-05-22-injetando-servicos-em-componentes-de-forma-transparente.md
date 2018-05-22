@@ -28,7 +28,7 @@ Vou deixar o artigo "[Vue.js: Trabalhando com Serviços](https://blog.codecasts.
 
 ## Mantendo Contratos
 
-Para quem está acostumado com linguagens onde a **Orientação a Objeto** possui suporte à recursos como interfaces, métodos abstratos, enum, entre outros, o javascript se torna um pouco assustador por não entregar esse tipo de composição. Contudo, isso não é exatamente um problema quando você organiza a sua aplicação porque a falta de rigidez não faz com que, obrigatoriamente, alguns caminhos sejam seguidos. Sugiro dar uma olhada no artigo "[Vue.js ajax patterns](http://vuejs-brasil.com.br/vue-js-ajax-patterns/)" para pegar algumas dicas de composição de serviços.
+Para quem está acostumado com linguagens onde a **Orientação a Objeto** possui suporte à recursos como interfaces, métodos abstratos, enum, entre outros, o javascript se torna um pouco assustador por não entregar esse tipo de composição. Contudo, isso não é exatamente um problema quando você organiza a sua aplicação porque essa chamada falta de rigidez pode ser compensada de outras formas para forçar que alguns caminhos não sejam seguidos. Sugiro dar uma olhada no artigo "[Vue.js ajax patterns](http://vuejs-brasil.com.br/vue-js-ajax-patterns/)" para pegar algumas dicas de composição de serviços.
 
 ### Criando Serviços Extensíveis
 
