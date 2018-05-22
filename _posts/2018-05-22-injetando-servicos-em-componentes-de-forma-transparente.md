@@ -327,7 +327,7 @@ Embora essa abordagem não seja ruim, ela possui alguns pontos que devem ser obs
 
 #### Usando o Router para injetar dependência
 
-Durante a construção de app’s mais robustos geralmente usamos um _router_. O **Vue Router** é uma ferramenta que faz parte do ecossistema do **_Vue_** e nos permite criar rotas para nossos componentes. Ele tem suporte a informar as _props_ que serão usadas para montar o componente e isto descrito [neste trecho da documentação](https://router.vuejs.org/en/essentials/passing-props.html).
+Durante a construção de app’s mais robustos geralmente usamos um _router_. O **Vue Router** é uma ferramenta que faz parte do ecossistema do **_Vue_** e nos permite criar rotas para nossos componentes. Ele tem suporte a informar as _props_ que serão usadas para montar o componente e isto está descrito [neste trecho da documentação](https://router.vuejs.org/en/essentials/passing-props.html).
 
 No caso do nosso exemplo, vamos explorar o [Function Mode](https://router.vuejs.org/en/essentials/passing-props.html#function-mode) onde as _props_ serão geradas por uma função que recebe a rota que carregada como parâmetro. Com o _service_ sendo uma _prop_ poderemos passá-lo por parâmetro através da rota onde seu componente será montado.
 
