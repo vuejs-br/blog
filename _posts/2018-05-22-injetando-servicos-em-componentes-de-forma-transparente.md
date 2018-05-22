@@ -323,7 +323,7 @@ O que implicaria em um caso de uso semelhante à:
 <ProductTable v-bind:service="service"/>
 ```
 
-Embora essa abordagem não seja ruim ela tem alguns gargalos como ter que usar um estado do meu componente para abrigar um serviço, ou mesmo a necessidade imperativa de ter que criar um arquivo `.vue` para cada rota implementada.
+Embora essa abordagem não seja ruim, ela possui alguns pontos que devem ser observados. Entre as situações que não me deixam confortável temos a questão de usar um estado do componente (uma propriedade no data) para abrigar o serviço que será mapeado à _prop_, e a necessidade imperativa de ter que criar um arquivo `.vue` para cada rota implementada.
 
 #### Usando o Router para injetar dependência
 
