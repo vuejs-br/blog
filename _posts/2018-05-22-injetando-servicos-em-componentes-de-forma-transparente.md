@@ -178,7 +178,7 @@ A saída exibida nesse caso é algo parecida com a imagem abaixo.
 </p>
 
 
-Com o que fora apresentado até aqui não  difícil perceber que podemos usar essa estrutura para representar diversas estratégias de API’s porque não está fechado o que o nosso serviço consome. Essa deve ser a visão do componente acerca do service: conhecer o contrato e não a implementação.
+Com o que fora apresentado até aqui não é difícil perceber que podemos usar essa estrutura para representar diversas estratégias de API’s porque não está fechado o que o nosso serviço consome. Essa deve ser a visão do componente acerca do service: conhecer o contrato e não a implementação.
 
 > Embora o Javascript não tenha estruturas formais para contratos, é possível criar padrões para que a codificação componha esses contratos de forma orgânica 
 
