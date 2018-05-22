@@ -13,10 +13,11 @@ markdown: kramdown
 highlighter: 'rouge'
 logo: true
 paginate: 15
-baseurl: /
+baseurl:
 domain_name: 'http://www.vuejs-brasil.com.br/'
 google_analytics: 'UA-79980005-1'
 plugins: [jekyll-paginate]
+exclude: [".idea", "docker-compose.yml"]
 
 authors:
     vedovelli:
