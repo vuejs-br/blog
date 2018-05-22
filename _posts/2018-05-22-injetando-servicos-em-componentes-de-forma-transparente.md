@@ -284,7 +284,7 @@ A resposta do **_Vue_** será contundente
 <img src="https://i.imgur.com/Zrz3W7H.png">
 </p>
 
-Com implementação do _plugin_ feita dessa forma o _service_ é passado para o componente e então ele “descobre” se este é um item das opções do construtor da instância do **_Vue_** ou se é uma _prop_ do componente, entregando um elemento, que como vimos acima, é imutável; o que nos leva a próxima abordagem, passar os serviços via _props_.
+Com a implementação do _plugin_ feita dessa forma o _service_ é passado para o componente e então ele “descobre” se este é um item das opções do construtor da instância do **_Vue_** ou se é uma _prop_ do componente, entregando um elemento, que como vimos acima, é imutável; o que nos leva a próxima abordagem, passar os serviços via _props_.
 
 #### Utilizando serviços como props
 No ecossistema do **_Vue_** (na verdade é um conceito um pouco mais abrangente que isso) uma _prop_ é um estado que é passado para um componente.
