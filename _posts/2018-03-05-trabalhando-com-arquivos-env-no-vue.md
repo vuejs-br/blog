@@ -86,7 +86,21 @@ Se você executar o comando "npm run build", o diretório `dist` será criado co
 Dessa forma, podemos trabalhar com variáveis diferenciadas pelo ambiente, utilizando a configuração pronta que o template webpack nos fornece. Se você utilizar um outro template, certifique-se de encontrar esta funcionalidade.
 
 
+## E o vue-cli 3 ?
 
+Com o novo cli do Vue, que neste momento está em com status RC (Release Candidate), a forma como acessar as variáveis de ambiente mudaram completamente! Agora, você deve criar dois arquivos na raiz do seu projeto: `.env` e `.env.production`. As variáveis que você adiciona no arquivo DEVEM começar com `VUE_APP_`, por exemplo:
 
+```
+VUE_APP_ROOT_API=http://localhost:3000/api
+```
 
+e forma como você acessa esta variável no seu código vue é:
+
+```js
+mounted() {
+      console.log(process.env.VUE_APP_ROOT_API)
+    }
+```
+
+Por questões de segurança, somente variáveis que começam com `VUE_APP_` serão "exportadas" para o vue 
 
