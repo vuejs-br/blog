@@ -6,6 +6,8 @@ tags: vue vuejs mixins components
 author: fsenaweb
 ---
 
+Mixins são uma forma flexível de distribuir funcionalidade reutilizável em diversos componentes Vue.
+
 ![](https://cdn-images-1.medium.com/max/800/1*mGLyzR9e51d_DEYWyQ1Hog.jpeg)
 
 Fala galera! 
