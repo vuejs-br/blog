@@ -10,7 +10,7 @@ author: fsenaweb
 
 Fala galera! 
 
-Dentro dos meus trabalhos com Vue, eu venho adquirindo experiência no desenvolvimento de componentes e reaproveitamento dos mesmos nas aplicações, ganhando assim, agilidade, tempo, recursos, entre outros. E nos últimos projetos eu vinha percebendo que alguns dos meus componentes tinham códigos bastante semelhantes, entre os quais, alguns methods, computed properties.
+Dentro dos meus trabalhos com Vue, eu venho adquirindo muita experiência no desenvolvimento de componentes e reaproveitamento dos mesmos nas aplicações, ganhando assim, agilidade, tempo, recursos, entre outros. E nos últimos projetos eu vinha percebendo que alguns dos meus componentes tinham códigos bastante semelhantes, entre os quais, alguns methods, computed properties.
 
 Era muito código que eu praticamente copiava e colava de um componente para outro, mudando pequenos detalhes e isso me chamou a atenção, ai fui buscar mais informações na internet, principalmente na documentação do próprio Vue.js, e também no telegram, no grupo Vuejs Brasil. Acabei descobrindo que existe uma funcionalidade fantástica que são os Mixins , onde a própria documentação dá uma clara explicação:
 
