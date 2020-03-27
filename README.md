@@ -1,23 +1,22 @@
-# Blog Vuejs-Brasil
+# blog
 
-<img align="left" src="assets/images/logo.png" width="100">
-  
-Este é o site do Blog vuejs-brasil.com.br. Qualquer pessoa pode contribuir com o nosso Blog! É fácil, bastando apenas alguns conhecimentos sobre Git e Markdown. 
+> Site principal do Vue.js Brasil
 
-> Para saber mais sobre como criar um post para o nosso site, [clique aqui](http://vuejs-brasil.com.br/como-publicar-no-blog-vuejs-brasil/)
+## Build Setup
 
-Logotipo By [@wilcorrea](https://twitter.com/@wilcorrea)
+```bash
+# install dependencies
+$ npm install
 
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-## Notas de migração
+# build for production and launch server
+$ npm run build
+$ npm run start
 
-Esse Blog está sendo migrado para o jekyll. Algumas coisas ainda não funcionam! 
+# generate static project
+$ npm run generate
+```
 
-O que está faltando:
-
-- [x] Comentários do disquss
-- [ ] Importar as imagens de capa de artigo
-- [x] Configurar os autores de cada artigo
-- [ ] Configurar as tags e criar uma página de tags
-- [ ] Criar no index.html uma forma de exibir os posts fixos
-
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
