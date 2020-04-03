@@ -19,7 +19,15 @@ import CustomSvgImage from '../CustomSvgImage'
 
 const items = [
   {
+    icon: 'twitter',
+    url: ''
+  },
+  {
     icon: 'telegram',
+    url: ''
+  },
+  {
+    icon: 'github-2',
     url: ''
   },
   {
