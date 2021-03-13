@@ -4,8 +4,7 @@ title: 'Vuex 2.0 - screencast'
 main-class: 'dev'
 date: 2016-10-01 15:50:57 
 color: '#637a91'
-tags: 
-layout: post
+tags: vuex vue-js
 author: vedovelli
 ---
 

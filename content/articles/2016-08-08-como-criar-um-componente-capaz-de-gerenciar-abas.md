@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-08-08 03:07:52 
 color: '#637a91'
 tags: vue-js components bootstrap
-layout: post
 author: daniel-schmitz
 ---
 

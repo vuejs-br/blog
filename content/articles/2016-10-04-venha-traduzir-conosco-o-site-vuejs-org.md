@@ -4,8 +4,7 @@ title: 'Venha traduzir conosco o site vuejs.org'
 main-class: 'dev'
 date: 2016-10-04 13:13:23 
 color: '#637a91'
-tags: 
-layout: post
+tags: documentação
 author: daniel-schmitz
 ---
 

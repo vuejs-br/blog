@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2018-02-27 17:03:42 
 color: '#637a91'
 tags: vue2 javascript e2e testes
-layout: post
 author: leonardovilarinho
 ---
 

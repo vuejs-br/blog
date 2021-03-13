@@ -4,8 +4,7 @@ title: 'Componentes prontos para uso'
 main-class: 'dev'
 date: 2016-07-15 12:17:34 
 color: '#637a91'
-tags: 
-layout: post
+tags: componentes
 author: vedovelli
 ---
 

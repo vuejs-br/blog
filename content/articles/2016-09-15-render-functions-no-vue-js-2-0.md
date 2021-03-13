@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-09-15 13:23:27 
 color: '#637a91'
 tags: render-functions render functions vue-js vue-js2 vue vue2
-layout: post
 author: halfeld
 ---
 

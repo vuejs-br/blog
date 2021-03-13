@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-10-04 13:54:33 
 color: '#637a91'
 tags: vue2 vuejs
-layout: post
 author: halfeld
 ---
 

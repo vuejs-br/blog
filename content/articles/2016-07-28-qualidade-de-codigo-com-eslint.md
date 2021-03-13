@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-07-28 12:08:45 
 color: '#637a91'
 tags: vue-js eslint
-layout: post
 author: pablohpsilva
 ---
 

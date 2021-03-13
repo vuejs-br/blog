@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-07-22 12:26:29 
 color: '#637a91'
 tags: vuex mudular modulos
-layout: post
 author: jjsquad
 ---
 

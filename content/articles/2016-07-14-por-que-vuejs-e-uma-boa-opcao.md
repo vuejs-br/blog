@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-07-14 14:47:23 
 color: '#637a91'
 tags: angular conceitos tecnologia web-components reactjs
-layout: post
 author: vinicius
 ---
 

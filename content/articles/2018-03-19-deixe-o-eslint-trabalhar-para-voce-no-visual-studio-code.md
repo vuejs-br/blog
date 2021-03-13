@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2018-03-19 11:45:46 
 color: '#637a91'
 tags: eslint webpack vue vscode
-layout: post
 author: daniel-schmitz
 ---
 

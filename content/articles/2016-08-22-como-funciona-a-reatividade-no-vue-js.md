@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-08-22 01:30:00 
 color: '#637a91'
 tags: vue-js observer-pattern reatividade
-layout: post
 author: halfeld
 ---
 

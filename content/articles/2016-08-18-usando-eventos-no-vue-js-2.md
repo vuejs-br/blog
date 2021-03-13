@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-08-18 12:08:22 
 color: '#637a91'
 tags: vue-js-2 events bus
-layout: post
 author: vedovelli
 ---
 

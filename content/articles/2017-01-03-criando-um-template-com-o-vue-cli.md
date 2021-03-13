@@ -4,8 +4,7 @@ title: 'Criando um template com o vue-cli'
 main-class: 'dev'
 date: 2017-01-03 02:36:25 
 color: '#637a91'
-tags: 
-layout: post
+tags: template vue-cli
 author: pablohpsilva
 ---
 

@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2017-04-17 18:11:09 
 color: '#637a91'
 tags: idioma vue2 plugins
-layout: post
 author: leonardovilarinho
 ---
 

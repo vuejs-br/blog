@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-06-28 14:06:15 
 color: '#637a91'
 tags: ferramentas
-layout: post
 author: daniel-schmitz
 ---
 

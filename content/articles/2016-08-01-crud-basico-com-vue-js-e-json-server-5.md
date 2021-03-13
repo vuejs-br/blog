@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-08-01 12:21:33 
 color: '#637a91'
 tags: vue-js
-layout: post
 author: daniel-schmitz
 ---
 

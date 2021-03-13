@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-10-01 19:13:22 
 color: '#637a91'
 tags: vuejs2 vue2 listas colections arrays axios lodash computeds
-layout: post
 author: vinicius
 ---
 

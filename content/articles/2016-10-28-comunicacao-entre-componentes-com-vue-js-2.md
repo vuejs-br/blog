@@ -4,8 +4,7 @@ title: 'Comunicação entre componentes com Vue.js 2'
 main-class: 'dev'
 date: 2016-10-28 14:32:13 
 color: '#637a91'
-tags: 
-layout: post
+tags: components vue-js2
 author: pablohpsilva
 ---
 

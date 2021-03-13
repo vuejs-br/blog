@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-07-26 11:51:17 
 color: '#637a91'
 tags: vue-router single-page-application vue-js
-layout: post
 author: ktquez
 ---
 

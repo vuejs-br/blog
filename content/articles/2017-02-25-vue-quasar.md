@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2017-02-25 22:44:07 
 color: '#637a91'
 tags: quasar mobile hibrido
-layout: post
 author: leonardovilarinho
 ---
 

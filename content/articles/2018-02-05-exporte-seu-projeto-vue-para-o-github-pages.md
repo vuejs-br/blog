@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2018-02-05 12:27:35 
 color: '#637a91'
 tags: vue deploy github git
-layout: post
 author: daniel-schmitz
 ---
 

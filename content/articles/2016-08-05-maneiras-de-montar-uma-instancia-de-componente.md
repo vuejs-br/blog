@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-08-05 17:36:08 
 color: '#637a91'
 tags: components angular
-layout: post
 author: vinicius
 ---
 

@@ -4,8 +4,7 @@ title: 'Vue.js para desenvolvedores AngularJS – Parte 1 (Lógica de templates)
 main-class: 'dev'
 date: 2016-07-12 11:53:23 
 color: '#637a91'
-tags: 
-layout: post
+tags: angularjs vuejs
 author: ktquez
 ---
 

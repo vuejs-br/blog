@@ -4,8 +4,7 @@ title: 'Conheça o Fórum sobre Vuejs em português'
 main-class: 'dev'
 date: 2018-01-31 23:52:47 
 color: '#637a91'
-tags: 
-layout: post
+tags: fórum vue-js
 author: daniel-schmitz
 ---
 

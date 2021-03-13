@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2017-11-04 18:52:34 
 color: '#637a91'
 tags: vue2 axios
-layout: post
 author: leonardovilarinho
 ---
 

@@ -4,8 +4,7 @@ title: 'Vue.js e Testes'
 main-class: 'dev'
 date: 2018-03-01 12:27:55 
 color: '#637a91'
-tags: 
-layout: post
+tags: vue-js testes
 author: vedovelli
 ---
 

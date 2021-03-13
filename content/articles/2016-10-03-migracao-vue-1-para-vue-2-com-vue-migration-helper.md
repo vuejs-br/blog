@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-10-03 17:31:17 
 color: '#637a91'
 tags: vue vue2 migracao ferramentas
-layout: post
 author: daniel-schmitz
 ---
 

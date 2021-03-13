@@ -4,8 +4,7 @@ title: 'Vue.js 2: O que mudou?'
 main-class: 'dev'
 date: 2016-08-16 19:42:29 
 color: '#637a91'
-tags: 
-layout: post
+tags: vue-js 
 author: daniel-schmitz
 ---
 

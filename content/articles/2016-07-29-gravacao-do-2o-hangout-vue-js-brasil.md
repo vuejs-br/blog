@@ -4,8 +4,7 @@ title: 'Gravação do 2º Hangout Vue.js Brasil'
 main-class: 'dev'
 date: 2016-07-29 02:09:27 
 color: '#637a91'
-tags: 
-layout: post
+tags: vuejs
 author: vedovelli
 ---
 

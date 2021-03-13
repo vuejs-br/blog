@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-06-28 11:24:45 
 color: '#637a91'
 tags: eventos
-layout: post
 author: vedovelli
 ---
 

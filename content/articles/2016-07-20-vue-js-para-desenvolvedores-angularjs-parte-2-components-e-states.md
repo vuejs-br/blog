@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-07-20 11:14:48 
 color: '#637a91'
 tags: vue-js web-components angular
-layout: post
 author: ktquez
 ---
 

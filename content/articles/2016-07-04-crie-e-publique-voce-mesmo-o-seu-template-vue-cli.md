@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-07-04 15:57:17 
 color: '#637a91'
 tags: vue-js ferramentas
-layout: post
 author: daniel-schmitz
 ---
 

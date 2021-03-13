@@ -4,8 +4,7 @@ title: 'Higher-Order Components em Vue.js 2'
 main-class: 'dev'
 date: 2016-11-25 19:51:52 
 color: '#637a91'
-tags: 
-layout: post
+tags: hoc components higher-order-components
 author: pablohpsilva
 ---
 

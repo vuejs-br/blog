@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2018-02-12 17:38:34 
 color: '#637a91'
 tags: toolkit iview ui interface
-layout: post
 author: daniel-schmitz
 ---
 

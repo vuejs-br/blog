@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2018-03-05 12:11:59 
 color: '#637a91'
 tags: vue webpack env devops configuracao
-layout: post
 author: daniel-schmitz
 ---
 

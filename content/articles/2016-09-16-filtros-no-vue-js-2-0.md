@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-09-16 13:09:23 
 color: '#637a91'
 tags: filters filtros vue2 vue-js vue-js2 vue-2-0 vue-js-2-0
-layout: post
 author: halfeld
 ---
 

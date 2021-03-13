@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2017-07-13 16:45:04 
 color: '#637a91'
 tags: vue2 webpack desempenho
-layout: post
 author: leonardovilarinho
 ---
 

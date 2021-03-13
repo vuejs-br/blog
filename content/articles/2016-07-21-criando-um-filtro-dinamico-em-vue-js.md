@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-07-21 14:13:32 
 color: '#637a91'
 tags: vue-js filters filtros
-layout: post
 author: pablohpsilva
 ---
 

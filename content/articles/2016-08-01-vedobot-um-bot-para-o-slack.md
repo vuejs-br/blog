@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-08-01 17:33:06 
 color: '#637a91'
 tags: vue-js bot slack
-layout: post
 author: halfeld
 ---
 

@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-07-29 13:59:56 
 color: '#637a91'
 tags: libs c3js d3js third-party
-layout: post
 author: vinicius
 ---
 

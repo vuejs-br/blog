@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2018-03-12 09:31:17 
 color: '#637a91'
 tags: vue performance devtools chrome firefox extensao plugin
-layout: post
 author: daniel-schmitz
 ---
 

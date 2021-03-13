@@ -4,8 +4,7 @@ title: 'Alternativas em relação ao Vuex'
 main-class: 'dev'
 date: 2018-02-26 11:58:16 
 color: '#637a91'
-tags: 
-layout: post
+tags: vuex state-management
 author: daniel-schmitz
 ---
 

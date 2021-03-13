@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-10-24 11:06:33 
 color: '#637a91'
 tags: vue2 vuejs vue-router vuex yarn
-layout: post
 author: pablohpsilva
 ---
 

@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-09-19 18:05:11 
 color: '#637a91'
 tags: vue2 transicao animacao css
-layout: post
 author: daniel-schmitz
 ---
 

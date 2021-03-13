@@ -4,8 +4,7 @@ title: 'Distribuição de conteúdo com Slots'
 main-class: 'dev'
 date: 2016-10-08 14:01:12 
 color: '#637a91'
-tags: 
-layout: post
+tags: slots vue-js
 author: pablohpsilva
 ---
 

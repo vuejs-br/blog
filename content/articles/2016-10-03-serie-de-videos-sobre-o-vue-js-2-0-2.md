@@ -4,8 +4,7 @@ title: 'Serie de vídeos sobre o Vue.js 2.0'
 main-class: 'dev'
 date: 2016-10-03 00:15:00 
 color: '#637a91'
-tags: vue2
-layout: post
+tags: vue-js2
 author: halfeld
 ---
 

@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-07-18 13:12:25 
 color: '#637a91'
 tags: vue-js testes tdd bdd
-layout: post
 author: halfeld
 ---
 

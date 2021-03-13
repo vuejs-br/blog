@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-08-10 20:05:50 
 color: '#637a91'
 tags: evan-you quora traducao mercado
-layout: post
 author: vinicius
 ---
 

@@ -5,7 +5,6 @@ main-class: 'dev'
 date: 2016-08-19 12:00:00 
 color: '#637a91'
 tags: vuejs vue events v-on components
-layout: post
 author: jjsquad
 ---
 

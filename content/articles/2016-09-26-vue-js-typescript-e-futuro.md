@@ -4,8 +4,7 @@ title: 'Vue.js, Typescript e futuro'
 main-class: 'dev'
 date: 2016-09-26 12:53:06 
 color: '#637a91'
-tags: 
-layout: post
+tags: vue-js typescript
 author: daniel-schmitz
 ---
 
