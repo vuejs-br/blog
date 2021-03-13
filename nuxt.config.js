@@ -43,7 +43,8 @@ module.exports = {
   ** Nuxt.js modules
   */
   modules: [
-    '@nuxtjs/pwa'
+    '@nuxtjs/pwa',
+    '@nuxt/content'
   ],
   /*
   ** Build configuration
